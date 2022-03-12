@@ -5,7 +5,7 @@
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
                     <a href="#" class="logo">
-                        <img src="assets/images/logo.png" alt="Softy Pinko" />
+                        <img src="assets/images/Uniongroupinvest_Trans_Bk.png" width="110" height="40" alt="Union Group Invest" />
                     </a>
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->

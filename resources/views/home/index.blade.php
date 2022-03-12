@@ -5,7 +5,7 @@
 
 
     <title>Union Group Home</title>
-    
+
     @include('includes.home_css')
 
 </head>
@@ -37,7 +37,8 @@
                     <div class="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
                         <h1>We provide the best <strong>strategy</strong><br>to grow up your <strong>business</strong>
                         </h1>
-                        <p>We offer services ranging from forex, cryptocurrencies, real_estate, escrow services, loans and stocks</p>
+                        <p>We offer services ranging from forex, cryptocurrencies, real_estate, escrow services, loans
+                            and stocks</p>
                         <a href="{{ route('services') }}" class="main-button-slider">Discover More</a>
                     </div>
                 </div>
@@ -115,11 +116,20 @@
                 <div class="col-lg-1"></div>
                 <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
                     <div class="left-heading">
-                        <h2 class="section-title">Let’s discuss about you project</h2>
+                        <h2 class="section-title">WE ARE UNION GROUP INVESTMENTS</h2>
                     </div>
                     <div class="left-text">
-                        <p>Nullam sit amet purus libero. Etiam ullamcorper nisl ut augue blandit, at finibus leo
-                            efficitur. Nam gravida purus non sapien auctor, ut aliquam magna ullamcorper.</p>
+                        <p>We believe that superior investment performance is achieved through a skillful balance of
+                            three core attributes: knowledge, experience and adaptability.</p>
+                        <p>There is only one way to be on the cutting edge – commitment to innovation. We do our best to
+                            achieve a consistent increase in investment performance for our clients. We appreciate our
+                            clients loyalty and value the relationships we build with each customer. No matter what
+                            country you come from, our professional managers will help you to choose the investment
+                            product that best fits your demands. Our managers are constantly working on implementing
+                            unique trading methods with the most advanced and efficient trading technology, competitive
+                            services, high-quality performance, genuine practices, excellent customer support service
+                            and fund safety that allow us to work successfully on the market in a highly profitable way.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -138,12 +148,22 @@
             <div class="row">
                 <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-bottom-fix">
                     <div class="left-heading">
-                        <h2 class="section-title">We can help you to grow your business</h2>
+                        <h2 class="section-title">WHY UNION GROUP INVESTMENTS</h2>
                     </div>
                     <div class="left-text">
-                        <p>Aenean pretium, ipsum et porttitor auctor, metus ipsum iaculis nisi, a bibendum lectus libero
-                            vitae urna. Sed id leo eu dolor luctus congue sed eget ipsum. Nunc nec luctus libero. Etiam
-                            quis dolor elit.</p>
+                        <p>We believe that superior investment performance is achieved through a skillful balance of
+                            three core attributes: knowledge, experience and adaptability. There is only one way to be
+                            on the cutting edge – commitment to innovation. We do our best to achieve a consistent
+                            increase in investment performance for our clients. We appreciate our clients loyalty and
+                            value the relationships we build with each customer. No matter what country you come from,
+                            our professional managers will help you to choose the investment product that best fits your
+                            demands. Our managers are constantly working on implementing unique trading methods with the
+                            most advanced and efficient trading technology, competitive services, high-quality
+                            performance, genuine practices, excellent customer support service and fund safety that
+                            allow us to work successfully on the market in a highly profitable way. Having different
+                            dynamic investment methods allows us to maintain a constant high interest rate for our
+                            clients. One of our strongest advantages over competitors is that we provide the utmost
+                            flexibility insurance on digital assets invested with us.</p>
                     </div>
                 </div>
                 <div class="col-lg-1"></div>
@@ -286,12 +306,11 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="{{ asset('assets/images/testimonial-icon.png') }}"
-                                    alt=""></i>
-                                    <p>team oF experts helps in the investments
-                                        of highly-rated company stock, including corporate and sovereign
-                                        debt, equities, currencies and various derivatives and structured
-                                        products</p>
+                            <i><img src="{{ asset('assets/images/testimonial-icon.png') }}" alt=""></i>
+                            <p>team oF experts helps in the investments
+                                of highly-rated company stock, including corporate and sovereign
+                                debt, equities, currencies and various derivatives and structured
+                                products</p>
                             <div class="user-image">
                                 <img src="http://placehold.it/60x60" alt="">
                             </div>
@@ -348,10 +367,9 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="{{ asset('assets/images/testimonial-icon.png') }}"
-                                    alt=""></i>
-                                    <p>Our company offers personal loans which can be
-                                        used for a variety of things </p>
+                            <i><img src="{{ asset('assets/images/testimonial-icon.png') }}" alt=""></i>
+                            <p>Our company offers personal loans which can be
+                                used for a variety of things </p>
                             <div class="user-image">
                                 <img src="http://placehold.it/60x60" alt="">
                             </div>
@@ -365,7 +383,7 @@
                 <!-- ***** Testimonials Item End ***** -->
             </div>
         </div>
-</section>
+    </section>
     <!-- ***** Testimonials End ***** -->
 
     <!-- ***** Pricing Plans Start ***** -->
@@ -380,8 +398,8 @@
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p>Donec vulputate urna sed rutrum venenatis. Cras consequat magna quis arcu elementum, quis
-                            congue risus volutpat.</p>
+                        <p>OUR COMPANY IS MADE UP OF FOUR AMAZING INVESTMENT SECTORS. ENJOY FULL INSURANCE COVERAGE ON
+                            ALL INVESTMENT PACKAGES IN OUR PLATFORM. CLICK ON CHOOSE PLAN TO REGISTER.</p>
                     </div>
                 </div>
             </div>
@@ -389,87 +407,118 @@
 
             <div class="row">
                 <!-- ***** Pricing Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12"
+                <div class="col-lg-3 col-md-6 col-sm-12"
                     data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
                     <div class="pricing-item">
                         <div class="pricing-header">
-                            <h3 class="pricing-title">Starter</h3>
+                            <h3 class="pricing-title">STARTER</h3>
                         </div>
                         <div class="pricing-body">
                             <div class="price-wrapper">
                                 <span class="currency">$</span>
-                                <span class="price">14.50</span>
-                                <span class="period">monthly</span>
+                                <span class="price">200</span>
+                                <span class="period">minimum</span>
                             </div>
                             <ul class="list">
-                                <li class="active">60 GB space</li>
-                                <li class="active">600 GB transfer</li>
-                                <li class="active">Pro Design Panel</li>
-                                <li>15-minute support</li>
-                                <li>Unlimited Emails</li>
-                                <li>24/7 Security</li>
+                                <li class="active">$200 Minimum Investment</li>
+                                <li class="active">$4,999 Maximum Investment</li>
+                                <li>Personal Account Manager</li>
+                                <li class="active">3.0% Daily R.O.I</li>
+                                <li class="active">5% Referral Bonus</li>
+                                <li class="active">60 Days Contract</li>
+                                <li class="active">3 Days Cash Out </li>
                             </ul>
                         </div>
                         <div class="pricing-footer">
-                            <a href="#" class="main-button">Purchase Now</a>
+                            <a href="{{ route("user.register") }}" class="main-button">Register Now</a>
                         </div>
                     </div>
                 </div>
                 <!-- ***** Pricing Item End ***** -->
 
                 <!-- ***** Pricing Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12"
+                <div class="col-lg-3 col-md-6 col-sm-12"
                     data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="pricing-item active">
                         <div class="pricing-header">
-                            <h3 class="pricing-title">Premium</h3>
+                            <h3 class="pricing-title">MAGNATE</h3>
                         </div>
                         <div class="pricing-body">
                             <div class="price-wrapper">
                                 <span class="currency">$</span>
-                                <span class="price">21.50</span>
-                                <span class="period">monthly</span>
+                                <span class="price">5,000</span>
+                                <span class="period">minimum</span>
                             </div>
                             <ul class="list">
-                                <li class="active">120 GB space</li>
-                                <li class="active">1200 GB transfer</li>
-                                <li class="active">Pro Design Panel</li>
-                                <li class="active">15-minute support</li>
-                                <li>Unlimited Emails</li>
-                                <li>24/7 Security</li>
+                                <li class="active">$5,000 Minimum Investment</li>
+                                <li class="active">$9,999 Maximum Investment</li>
+                                <li class="active">Personal Account Manager</li>
+                                <li class="active">4.0% Daily R.O.I</li>
+                                <li class="active">5% Referral Bonus</li>
+                                <li class="active">60 Days Contract</li>
+                                <li class="active">7 Days Cash Out </li>
                             </ul>
                         </div>
                         <div class="pricing-footer">
-                            <a href="#" class="main-button">Purchase Now</a>
+                            <a href="{{ route("user.register") }}" class="main-button">Register Now</a>
                         </div>
                     </div>
                 </div>
                 <!-- ***** Pricing Item End ***** -->
 
                 <!-- ***** Pricing Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12"
+                <div class="col-lg-3 col-md-6 col-sm-12"
                     data-scroll-reveal="enter bottom move 50px over 0.6s after 0.6s">
                     <div class="pricing-item">
                         <div class="pricing-header">
-                            <h3 class="pricing-title">Advanced</h3>
+                            <h3 class="pricing-title">GOLD</h3>
                         </div>
                         <div class="pricing-body">
                             <div class="price-wrapper">
                                 <span class="currency">$</span>
-                                <span class="price">42.00</span>
-                                <span class="period">monthly</span>
+                                <span class="price">10,000</span>
+                                <span class="period">minimum</span>
                             </div>
                             <ul class="list">
-                                <li class="active">250 GB space</li>
-                                <li class="active">5000 GB transfer</li>
-                                <li class="active">Pro Design Panel</li>
-                                <li class="active">15-minute support</li>
-                                <li class="active">Unlimited Emails</li>
-                                <li class="active">24/7 Security</li>
+                                <li class="active">$10,000 Minimum Investment</li>
+                                <li class="active">$49,990 Maximum Investment</li>
+                                <li class="active">Personal Account Manager</li>
+                                <li class="active">4.5% Daily R.O.I</li>
+                                <li class="active">5% Referral Bonus</li>
+                                <li class="active">60 Days Contract</li>
+                                <li class="active">10 Days Cash Out </li>
                             </ul>
                         </div>
                         <div class="pricing-footer">
-                            <a href="#" class="main-button">Purchase Now</a>
+                            <a href="{{ route("user.register") }}" class="main-button">Register Now</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-12"
+                    data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
+                    <div class="pricing-item">
+                        <div class="pricing-header">
+                            <h3 class="pricing-title">DIAMOND</h3>
+                        </div>
+                        <div class="pricing-body">
+                            <div class="price-wrapper">
+                                <span class="currency">$</span>
+                                <span class="price">50,000</span>
+                                <span class="period">minimum</span>
+                            </div>
+                            <ul class="list">
+                                <li class="active">$50,000 Minimum Investment</li>
+                                <li class="active">Unlimited</li>
+                                <li class="active">Personal Account Manager</li>
+                                <li class="active">5.0% Daily R.O.I</li>
+                                <li class="active">5% Referral Bonus</li>
+                                <li class="active">60 Days Contract</li>
+                                <li class="active">15 Days Cash Out </li>
+                            </ul>
+                        </div>
+                        <div class="pricing-footer">
+                            <a href="{{ route("user.register") }}" class="main-button">Register Now</a>
                         </div>
                     </div>
                 </div>
@@ -642,8 +691,8 @@
                                 </div>
                                 <div class="col-lg-12">
                                     <fieldset>
-                                        <textarea name="message" rows="6" class="form-control" id="message"
-                                            placeholder="Your Message" required=""></textarea>
+                                        <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your Message"
+                                            required=""></textarea>
                                     </fieldset>
                                 </div>
                                 <div class="col-lg-12">
@@ -662,7 +711,7 @@
     </section>
     <!-- ***** Contact Us End ***** -->
 
-   
+
     @include('includes.home_footer')
 
     <!-- ***** Footer Start ***** -->
