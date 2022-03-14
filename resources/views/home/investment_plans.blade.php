@@ -19,7 +19,7 @@
             <div></div>
         </div>
     </div>
- 
+
     @include('includes.home_header')
 
     <section class="mini" id="work-process">
@@ -38,7 +38,7 @@
             </div>
         </div>
     </section>
-  
+
     <!-- ***** Pricing Plans Start ***** -->
     <section class="section colored" id="pricing-plans">
         <div class="container">
@@ -46,12 +46,13 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading">
-                        <h2 class="section-title">Investment Plans</h2>
+                        <h2 class="section-title">Pricing Plans</h2>
                     </div>
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p>Select a plan</p>
+                        <p>OUR COMPANY IS MADE UP OF FOUR AMAZING INVESTMENT SECTORS. ENJOY FULL INSURANCE COVERAGE ON
+                            ALL INVESTMENT PACKAGES IN OUR PLATFORM. CLICK ON CHOOSE PLAN TO REGISTER.</p>
                     </div>
                 </div>
             </div>
@@ -59,87 +60,118 @@
 
             <div class="row">
                 <!-- ***** Pricing Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12"
+                <div class="col-lg-3 col-md-6 col-sm-12"
                     data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
                     <div class="pricing-item">
                         <div class="pricing-header">
-                            <h3 class="pricing-title">Starter</h3>
+                            <h3 class="pricing-title">STARTER</h3>
                         </div>
                         <div class="pricing-body">
                             <div class="price-wrapper">
                                 <span class="currency">$</span>
-                                <span class="price">14.50</span>
-                                <span class="period">monthly</span>
+                                <span class="price">200</span>
+                                <span class="period">minimum</span>
                             </div>
                             <ul class="list">
-                                <li class="active">60 GB space</li>
-                                <li class="active">600 GB transfer</li>
-                                <li class="active">Pro Design Panel</li>
-                                <li>15-minute support</li>
-                                <li>Unlimited Emails</li>
-                                <li>24/7 Security</li>
+                                <li class="active">$200 Minimum Investment</li>
+                                <li class="active">$4,999 Maximum Investment</li>
+                                <li>Personal Account Manager</li>
+                                <li class="active">3.0% Daily R.O.I</li>
+                                <li class="active">5% Referral Bonus</li>
+                                <li class="active">60 Days Contract</li>
+                                <li class="active">3 Days Cash Out </li>
                             </ul>
                         </div>
                         <div class="pricing-footer">
-                            <a href="#" class="main-button">Purchase Now</a>
+                            <a href="{{ route("user.register") }}" class="main-button">Register Now</a>
                         </div>
                     </div>
                 </div>
                 <!-- ***** Pricing Item End ***** -->
 
                 <!-- ***** Pricing Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12"
+                <div class="col-lg-3 col-md-6 col-sm-12"
                     data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="pricing-item active">
                         <div class="pricing-header">
-                            <h3 class="pricing-title">Premium</h3>
+                            <h3 class="pricing-title">MAGNATE</h3>
                         </div>
                         <div class="pricing-body">
                             <div class="price-wrapper">
                                 <span class="currency">$</span>
-                                <span class="price">21.50</span>
-                                <span class="period">monthly</span>
+                                <span class="price">5,000</span>
+                                <span class="period">minimum</span>
                             </div>
                             <ul class="list">
-                                <li class="active">120 GB space</li>
-                                <li class="active">1200 GB transfer</li>
-                                <li class="active">Pro Design Panel</li>
-                                <li class="active">15-minute support</li>
-                                <li>Unlimited Emails</li>
-                                <li>24/7 Security</li>
+                                <li class="active">$5,000 Minimum Investment</li>
+                                <li class="active">$9,999 Maximum Investment</li>
+                                <li class="active">Personal Account Manager</li>
+                                <li class="active">4.0% Daily R.O.I</li>
+                                <li class="active">5% Referral Bonus</li>
+                                <li class="active">60 Days Contract</li>
+                                <li class="active">7 Days Cash Out </li>
                             </ul>
                         </div>
                         <div class="pricing-footer">
-                            <a href="#" class="main-button">Purchase Now</a>
+                            <a href="{{ route("user.register") }}" class="main-button">Register Now</a>
                         </div>
                     </div>
                 </div>
                 <!-- ***** Pricing Item End ***** -->
 
                 <!-- ***** Pricing Item Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12"
+                <div class="col-lg-3 col-md-6 col-sm-12"
                     data-scroll-reveal="enter bottom move 50px over 0.6s after 0.6s">
                     <div class="pricing-item">
                         <div class="pricing-header">
-                            <h3 class="pricing-title">Advanced</h3>
+                            <h3 class="pricing-title">GOLD</h3>
                         </div>
                         <div class="pricing-body">
                             <div class="price-wrapper">
                                 <span class="currency">$</span>
-                                <span class="price">42.00</span>
-                                <span class="period">monthly</span>
+                                <span class="price">10,000</span>
+                                <span class="period">minimum</span>
                             </div>
                             <ul class="list">
-                                <li class="active">250 GB space</li>
-                                <li class="active">5000 GB transfer</li>
-                                <li class="active">Pro Design Panel</li>
-                                <li class="active">15-minute support</li>
-                                <li class="active">Unlimited Emails</li>
-                                <li class="active">24/7 Security</li>
+                                <li class="active">$10,000 Minimum Investment</li>
+                                <li class="active">$49,990 Maximum Investment</li>
+                                <li class="active">Personal Account Manager</li>
+                                <li class="active">4.5% Daily R.O.I</li>
+                                <li class="active">5% Referral Bonus</li>
+                                <li class="active">60 Days Contract</li>
+                                <li class="active">10 Days Cash Out </li>
                             </ul>
                         </div>
                         <div class="pricing-footer">
-                            <a href="#" class="main-button">Purchase Now</a>
+                            <a href="{{ route("user.register") }}" class="main-button">Register Now</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-12"
+                    data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
+                    <div class="pricing-item">
+                        <div class="pricing-header">
+                            <h3 class="pricing-title">DIAMOND</h3>
+                        </div>
+                        <div class="pricing-body">
+                            <div class="price-wrapper">
+                                <span class="currency">$</span>
+                                <span class="price">50,000</span>
+                                <span class="period">minimum</span>
+                            </div>
+                            <ul class="list">
+                                <li class="active">$50,000 Minimum Investment</li>
+                                <li class="active">Unlimited</li>
+                                <li class="active">Personal Account Manager</li>
+                                <li class="active">5.0% Daily R.O.I</li>
+                                <li class="active">5% Referral Bonus</li>
+                                <li class="active">60 Days Contract</li>
+                                <li class="active">15 Days Cash Out </li>
+                            </ul>
+                        </div>
+                        <div class="pricing-footer">
+                            <a href="{{ route("user.register") }}" class="main-button">Register Now</a>
                         </div>
                     </div>
                 </div>
@@ -148,7 +180,7 @@
         </div>
     </section>
     <!-- ***** Pricing Plans End ***** -->
-  
+
     <section class="section colored" id="contact-us">
         <div class="container">
             <!-- ***** Section Title Start ***** -->
@@ -160,8 +192,7 @@
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p>Maecenas pellentesque ante faucibus lectus vulputate sollicitudin. Cras feugiat hendrerit
-                            semper.</p>
+                        <p>We are always available 24/7 to cater to your needs and serve you better</p>
                     </div>
                 </div>
             </div>
@@ -172,11 +203,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <h5 class="margin-bottom-30">Keep in touch</h5>
                     <div class="contact-text">
-                        <p>110-220 Quisque diam odio, maximus ac consectetur eu, 10260
-                            <br>auctor non lorem
-                        </p>
-                        <p>You are NOT allowed to re-distribute Softy Pinko template on any template collection
-                            websites. Thank you.</p>
+                        <p>                                Send us a message for all your enquiries </p>
                     </div>
                 </div>
                 <!-- ***** Contact Text End ***** -->
@@ -200,8 +227,8 @@
                                 </div>
                                 <div class="col-lg-12">
                                     <fieldset>
-                                        <textarea name="message" rows="6" class="form-control" id="message"
-                                            placeholder="Your Message" required=""></textarea>
+                                        <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your Message"
+                                            required=""></textarea>
                                     </fieldset>
                                 </div>
                                 <div class="col-lg-12">
@@ -218,7 +245,7 @@
             </div>
         </div>
     </section>
-  
+
 
 
     @include('includes.home_footer')

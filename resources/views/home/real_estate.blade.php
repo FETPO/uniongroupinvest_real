@@ -56,13 +56,13 @@
             <div class="row">
                 <!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-12 col-md-12 col-sm-12">
-                    <p>CitiGroup invest is a different way to invest
+                    <p>Uniongroup invest is a different way to invest
                         online. We help you lay a foundation for you to accumulate and build
                         wealth. Earning money from long-term multi-million dollar real estate
                         assets can set your family up for a better future. In order to build
                         true wealth, you have to invest. You don’t build generational wealth by
                         putting everything in the stock market or into a savings account, you do
-                        it by diversifying your portfolio into alternatives here at CitiGroup invest
+                        it by diversifying your portfolio into alternatives here at Uniongroup invest
                         .</p>
                     
                 </div>
@@ -84,8 +84,7 @@
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p>Maecenas pellentesque ante faucibus lectus vulputate sollicitudin. Cras feugiat hendrerit
-                            semper.</p>
+                        <p>We are always available 24/7 to cater to your needs and serve you better</p>
                     </div>
                 </div>
             </div>
@@ -96,11 +95,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <h5 class="margin-bottom-30">Keep in touch</h5>
                     <div class="contact-text">
-                        <p>110-220 Quisque diam odio, maximus ac consectetur eu, 10260
-                            <br>auctor non lorem
-                        </p>
-                        <p>You are NOT allowed to re-distribute Softy Pinko template on any template collection
-                            websites. Thank you.</p>
+                        <p>                                Send us a message for all your enquiries </p>
                     </div>
                 </div>
                 <!-- ***** Contact Text End ***** -->
@@ -124,8 +119,8 @@
                                 </div>
                                 <div class="col-lg-12">
                                     <fieldset>
-                                        <textarea name="message" rows="6" class="form-control" id="message"
-                                            placeholder="Your Message" required=""></textarea>
+                                        <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your Message"
+                                            required=""></textarea>
                                     </fieldset>
                                 </div>
                                 <div class="col-lg-12">

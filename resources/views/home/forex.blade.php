@@ -56,14 +56,14 @@
             <div class="row">
                 <!-- ***** Testimonials Item Start ***** -->
                 <div class="col-lg-12 col-md-12 col-sm-12">
-                    <div class="timeline-title">What is a Forex Investment in CitiGroup Invest?</div>
+                    <div class="timeline-title">What is a Forex Investment in Uniongroup Invest?</div>
                     <br><br>
-                        <p class="timeline-text">At CitiGroup Invest, we provide a financial business platform which
+                        <p class="timeline-text">At Uniongroup Invest, we provide a financial business platform which
                             provides trading services in your broker’s accounts. Your account will be operated by a
                             professional group of asset managers paying an agreed monthly fee. That fee will be
                             automatically deducted of your broker’s account if the account gets profits. Let us manage
                             your account and get profits at last in your Forex investments. Feel the peace of mind that
-                            gives having a managed account by CitiGroup Invest. We’ll be getting profits for you
+                            gives having a managed account by Uniongroup Invest. We’ll be getting profits for you
                             meanwhile you are walking or sleeping.</p>
                             <br><br>
 
@@ -76,12 +76,12 @@
                             managing of your funds.</p>
                             <br><br>
 
-                        <div class="timeline-title">Why you should let CitiGroup Invest manage your forext
+                        <div class="timeline-title">Why you should let Uniongroup Invest manage your forext
                             investment?</div>
                             <br><br>
 
                         <p class="timeline-text">
-                            The main reason to let CitiGroup Invest manage your Forex investment is to have safe and
+                            The main reason to let Uniongroup Invest manage your Forex investment is to have safe and
                             long term steady profitable performance.</p>
                             <br><br>
                         <p class="timeline-text">1. Forex Market is a 24/7 open market and is a worldwide market, so
@@ -117,7 +117,7 @@
                             love to do. Ensure annual steady good Forex profits every year, while you enjoy your life
                             doing your regular work, being with friends, traveling, etc. Let Asset managers manage your
                             Forex Investments and have the complete peace of mind that means working with a professional
-                            online investment company like CitiGroup Invest.</p>
+                            online investment company like Uniongroup Invest.</p>
 
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
@@ -138,8 +138,7 @@
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p>Maecenas pellentesque ante faucibus lectus vulputate sollicitudin. Cras feugiat hendrerit
-                            semper.</p>
+                        <p>We are always available 24/7 to cater to your needs and serve you better</p>
                     </div>
                 </div>
             </div>
@@ -150,11 +149,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <h5 class="margin-bottom-30">Keep in touch</h5>
                     <div class="contact-text">
-                        <p>110-220 Quisque diam odio, maximus ac consectetur eu, 10260
-                            <br>auctor non lorem
-                        </p>
-                        <p>You are NOT allowed to re-distribute Softy Pinko template on any template collection
-                            websites. Thank you.</p>
+                        <p>                                Send us a message for all your enquiries </p>
                     </div>
                 </div>
                 <!-- ***** Contact Text End ***** -->
@@ -178,8 +173,8 @@
                                 </div>
                                 <div class="col-lg-12">
                                     <fieldset>
-                                        <textarea name="message" rows="6" class="form-control" id="message"
-                                            placeholder="Your Message" required=""></textarea>
+                                        <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your Message"
+                                            required=""></textarea>
                                     </fieldset>
                                 </div>
                                 <div class="col-lg-12">

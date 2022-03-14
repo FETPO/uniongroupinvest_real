@@ -65,7 +65,7 @@
                         the mortgage loan process! At Intersperse finance we understand! Our investors want simple
                         facts, honest answers and competitive products.
 
-                        CitiGroup invest automatically offers loan services to investors with over $100,000
+                        Uniongroup invest automatically offers loan services to investors with over $100,000
                         investment either in our normal Weltweit Financial Services packages or the NFP plans.
                         Investors over $100,000 are entitled to loans of $500,000-1millon dollars yearly with 5%
                         paid monthly, or the investor could wish to compound the interest till the time limit,
@@ -76,7 +76,7 @@
                         has a direct communication with the manager in order to see that our loan offers are
                         secured.
 
-                        GREAT INVESTING WITH THE CitiGroup invest FAMILY!</p>
+                        GREAT INVESTING WITH THE Uniongroup invest FAMILY!</p>
                     
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
@@ -97,8 +97,7 @@
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p>Maecenas pellentesque ante faucibus lectus vulputate sollicitudin. Cras feugiat hendrerit
-                            semper.</p>
+                        <p>We are always available 24/7 to cater to your needs and serve you better</p>
                     </div>
                 </div>
             </div>
@@ -109,11 +108,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <h5 class="margin-bottom-30">Keep in touch</h5>
                     <div class="contact-text">
-                        <p>110-220 Quisque diam odio, maximus ac consectetur eu, 10260
-                            <br>auctor non lorem
-                        </p>
-                        <p>You are NOT allowed to re-distribute Softy Pinko template on any template collection
-                            websites. Thank you.</p>
+                        <p>                                Send us a message for all your enquiries </p>
                     </div>
                 </div>
                 <!-- ***** Contact Text End ***** -->
@@ -137,8 +132,8 @@
                                 </div>
                                 <div class="col-lg-12">
                                     <fieldset>
-                                        <textarea name="message" rows="6" class="form-control" id="message"
-                                            placeholder="Your Message" required=""></textarea>
+                                        <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your Message"
+                                            required=""></textarea>
                                     </fieldset>
                                 </div>
                                 <div class="col-lg-12">

@@ -110,7 +110,7 @@
                                 <div id="two" class="collapse" role="tabpanel" aria-labelledby="headingTwo"
                                     data-parent="#accordionExample">
                                     <div class="card-body">
-                                        <p>Funding your Citigroup Invest account is simple and secure. You can fund your
+                                        <p>Funding your Uniongroup Invest account is simple and secure. You can fund your
                                             account through multiple payment methods including MoneyGram, WesternUnion,
                                             Bitcoin and Perfectmoney </p>
                                     </div>
@@ -183,13 +183,13 @@
                                             safety of personal data of users. The administration is not responsible for
                                             the transfer of your personal data to third parties. If you loose your
                                             password, click “forgot password” to your email address you will receive an
-                                            activation email.Citigroup invest  prohibits the creation of numerous accounts
+                                            activation email.Uniongroup invest  prohibits the creation of numerous accounts
                                             without notifying the admin. You must understand the possible risks
                                             associated with investing, so don’t invest a higher amount than you can
                                             afford to loose. Invest from your heart. Any other related questions,
                                             enquires and suggestions arising during the services, you can put in a
                                             letter/ mail by contacting customer support. We will investigate the issue
-                                            and you will receive a response as quickly as possible. Citigroup invest
+                                            and you will receive a response as quickly as possible. Uniongroup invest
                                             will help you gain your financial freedom so do not worry and always be
                                             positive as we WIN. </p>
                                     </div>
@@ -268,7 +268,7 @@
             </details>
             <details class="faq-card">
                 <summary>HOW DO I DEPOSIT FUNDS?? <span class="faq-open-icon">+</span></summary>
-                <span class="faq-card-spoiler">Funding your Citigroup Invest account is simple and secure. You can fund
+                <span class="faq-card-spoiler">Funding your Uniongroup Invest account is simple and secure. You can fund
                     your
                     account through multiple payment methods including MoneyGram, WesternUnion,
                     Bitcoin and Perfectmoney </span>
@@ -297,13 +297,13 @@
                         safety of personal data of users. The administration is not responsible for
                         the transfer of your personal data to third parties. If you loose your
                         password, click “forgot password” to your email address you will receive an
-                        activation email.Citigroup invest prohibits the creation of numerous accounts
+                        activation email.Uniongroup invest prohibits the creation of numerous accounts
                         without notifying the admin. You must understand the possible risks
                         associated with investing, so don’t invest a higher amount than you can
                         afford to loose. Invest from your heart. Any other related questions,
                         enquires and suggestions arising during the services, you can put in a
                         letter/ mail by contacting customer support. We will investigate the issue
-                        and you will receive a response as quickly as possible. Citigroup invest
+                        and you will receive a response as quickly as possible. Uniongroup invest
                         will help you gain your financial freedom so do not worry and always be
                         positive as we WIN. </p>
                 </span>
@@ -327,8 +327,7 @@
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p>Maecenas pellentesque ante faucibus lectus vulputate sollicitudin. Cras feugiat hendrerit
-                            semper.</p>
+                        <p>We are always available 24/7 to cater to your needs and serve you better</p>
                     </div>
                 </div>
             </div>
@@ -339,11 +338,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <h5 class="margin-bottom-30">Keep in touch</h5>
                     <div class="contact-text">
-                        <p>110-220 Quisque diam odio, maximus ac consectetur eu, 10260
-                            <br>auctor non lorem
-                        </p>
-                        <p>You are NOT allowed to re-distribute Softy Pinko template on any template collection
-                            websites. Thank you.</p>
+                        <p>                                Send us a message for all your enquiries </p>
                     </div>
                 </div>
                 <!-- ***** Contact Text End ***** -->
@@ -367,8 +362,8 @@
                                 </div>
                                 <div class="col-lg-12">
                                     <fieldset>
-                                        <textarea name="message" rows="6" class="form-control" id="message"
-                                            placeholder="Your Message" required=""></textarea>
+                                        <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your Message"
+                                            required=""></textarea>
                                     </fieldset>
                                 </div>
                                 <div class="col-lg-12">

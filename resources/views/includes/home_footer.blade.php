@@ -71,17 +71,17 @@
 
         <div>
             <i class="fa fa-map-marker"></i>
-            <p><span style="color: white; font-size:20px; ">444 S. Cedros Ave</span> Solana Beach, California</p>
+            <p><span style="color: white; font-size:20px; ">Jefferson City</span> 1435 Missouri Blvd</p>
         </div>
 
         <div>
             <i class="fa fa-phone"></i>
-            <p style="color: white; font-size:20px; ">+1.555.555.5555</p>
+            <p style="color: white; font-size:20px; ">+15102882641</p>
         </div>
 
         <div>
             <i class="fa fa-envelope"></i>
-            <p><a href="mailto:support@company.com" style="color: white; font-size:20px; ">support@company.com</a></p>
+            <p><a href="mailto:support@company.com" style="color: white; font-size:20px; ">support@uniongroupinvest.com</a></p>
         </div>
 
     </div>

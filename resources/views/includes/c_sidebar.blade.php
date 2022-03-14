@@ -3,7 +3,7 @@
         <div class="nk-sidebar-brand">
             <a href="{{ route('user.pages.view', ['index']) }}" class="logo-link nk-sidebar-logo h3" style="font-size:2em">
                 {{-- {{ config("app.name") }} --}}
-                Prostackinvest
+                Uniongroupinvest
             </a>
         </div>
         <div class="nk-menu-trigger mr-n2">

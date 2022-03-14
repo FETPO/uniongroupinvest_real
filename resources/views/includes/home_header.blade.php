@@ -4,8 +4,10 @@
             <div class="col-12">
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
-                    <a href="#" class="logo">
-                        <img src="assets/images/Uniongroupinvest_Trans_Bk.png" width="110" height="40" alt="Union Group Invest" />
+                    <a href="{{ route("app.home") }}" class="logo">
+                        <div style="width: 110, height: 40, object-fit: contain">
+                            <img src="assets/images/Uniongroupinvest_Trans_Bk.png" width="110"  height="40" alt="Union Group Invest" />
+                        </div>
                     </a>
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->

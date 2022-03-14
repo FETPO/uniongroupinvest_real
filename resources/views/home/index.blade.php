@@ -575,8 +575,7 @@
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p>Integer molestie aliquam gravida. Nullam nec arcu finibus, imperdiet nulla vitae, placerat
-                            nibh. Cras maximus venenatis molestie.</p>
+                        <p>We bring you lattest news in the capital market and financial and cryptocurrency invesment ecosytem</p>
                     </div>
                 </div>
             </div>
@@ -590,11 +589,10 @@
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">Vivamus ac vehicula dui</a>
+                                <a href="#">Dogecoin Spikes Briefly After Musk Says He Won't Sell His Crypto Holdings</a>
                             </h3>
                             <div class="text">
-                                Cras aliquet ligula dui, vitae fermentum velit tincidunt id. Praesent eu finibus nunc.
-                                Nulla in sagittis eros. Aliquam egestas augue.
+                                Dogecoin (DOGE) briefly jumped as much as 10% during Asian trading hours on Monday after Tesla CEO Elon Musk said in a tweet that he is not selling his crypto holdings, which includes DOGE.
                             </div>
                             <a href="#" class="main-button">Read More</a>
                         </div>
@@ -607,11 +605,10 @@
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">Phasellus convallis augue</a>
+                                <a href="#">Crypto Tax Prep Business Booms as Trading Surges and IRS Tightens Screws</a>
                             </h3>
                             <div class="text">
-                                Aliquam commodo ornare nisl, et scelerisque nisl dignissim ac. Vestibulum finibus urna
-                                ut velit venenatis, vel ultrices sapien mattis.
+                                Startups that help Americans calculate their crypto taxes have been raising hundreds of millions, hitting unicorn valuations. Even traditional tax-prep firms are rolling out crypto services. This piece is part of CoinDesk's Tax Week.
                             </div>
                             <a href="#" class="main-button">Read More</a>
                         </div>
@@ -624,11 +621,10 @@
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">Nam gravida purus non</a>
+                                <a href="#">Bitcoin Again Bounces Off 'Cloud' Support; Resistance at $42.6K</a>
                             </h3>
                             <div class="text">
-                                Maecenas eu erat vitae dui convallis consequat vel gravida nulla. Vestibulum finibus
-                                euismod odio, ut tempus enim varius eu.
+                                A popular technical analysis study, the Ichimoku cloud showed weekly support for bitcoin (BTC) near $37,600, and the leading cryptocurrency overnight tumbled to right around that level before stabilizing. At last check bitcoin had bounced back to $39,000.
                             </div>
                             <a href="#" class="main-button">Read More</a>
                         </div>
@@ -651,8 +647,7 @@
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p>Maecenas pellentesque ante faucibus lectus vulputate sollicitudin. Cras feugiat hendrerit
-                            semper.</p>
+                        <p>We are always available 24/7 to cater to your needs and serve you better</p>
                     </div>
                 </div>
             </div>
@@ -663,11 +658,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <h5 class="margin-bottom-30">Keep in touch</h5>
                     <div class="contact-text">
-                        <p>110-220 Quisque diam odio, maximus ac consectetur eu, 10260
-                            <br>auctor non lorem
-                        </p>
-                        <p>You are NOT allowed to re-distribute Softy Pinko template on any template collection
-                            websites. Thank you.</p>
+                        <p>                                Send us a message for all your enquiries </p>
                     </div>
                 </div>
                 <!-- ***** Contact Text End ***** -->
