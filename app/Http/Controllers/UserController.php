@@ -185,6 +185,7 @@ class UserController extends Controller
             return view("auth.register", ["ref" => $ref]);
         }
         $data = (object) $request->all();
+        // dd($data);
         $data->status = 1;
 
         $validated =  $request->validate([
