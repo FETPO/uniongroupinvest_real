@@ -64,7 +64,7 @@
                     data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
                     <div class="pricing-item">
                         <div class="pricing-header">
-                            <h3 class="pricing-title">STARTER</h3>
+                            <h3 class="pricing-title">BASIC</h3>
                         </div>
                         <div class="pricing-body">
                             <div class="price-wrapper">
@@ -75,11 +75,10 @@
                             <ul class="list">
                                 <li class="active">$200 Minimum Investment</li>
                                 <li class="active">$4,999 Maximum Investment</li>
-                                <li>Personal Account Manager</li>
-                                <li class="active">3.0% Daily R.O.I</li>
-                                <li class="active">5% Referral Bonus</li>
-                                <li class="active">60 Days Contract</li>
-                                <li class="active">3 Days Cash Out </li>
+                                {{-- <li>Personal Account Manager</li> --}}
+                                <li class="active">10% R.O.I</li>
+                                <li class="active">Contract Duration 30 Days </li>
+                                <li class="active">Returns: Every 7 Days</li>
                             </ul>
                         </div>
                         <div class="pricing-footer">
@@ -94,7 +93,7 @@
                     data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                     <div class="pricing-item active">
                         <div class="pricing-header">
-                            <h3 class="pricing-title">MAGNATE</h3>
+                            <h3 class="pricing-title">STANDARD</h3>
                         </div>
                         <div class="pricing-body">
                             <div class="price-wrapper">
@@ -104,12 +103,11 @@
                             </div>
                             <ul class="list">
                                 <li class="active">$5,000 Minimum Investment</li>
-                                <li class="active">$9,999 Maximum Investment</li>
-                                <li class="active">Personal Account Manager</li>
-                                <li class="active">4.0% Daily R.O.I</li>
-                                <li class="active">5% Referral Bonus</li>
-                                <li class="active">60 Days Contract</li>
-                                <li class="active">7 Days Cash Out </li>
+                                <li class="active">$19,999 Maximum Investment</li>
+                                {{-- <li class="active">Personal Account Manager</li> --}}
+                                <li class="active">15% R.O.I</li>
+                                <li class="active">Contract Duration 30 Days </li>
+                                <li class="active">Returns: Every 15 Days</li
                             </ul>
                         </div>
                         <div class="pricing-footer">
@@ -124,22 +122,20 @@
                     data-scroll-reveal="enter bottom move 50px over 0.6s after 0.6s">
                     <div class="pricing-item">
                         <div class="pricing-header">
-                            <h3 class="pricing-title">GOLD</h3>
+                            <h3 class="pricing-title">ADVANCED</h3>
                         </div>
                         <div class="pricing-body">
                             <div class="price-wrapper">
                                 <span class="currency">$</span>
-                                <span class="price">10,000</span>
+                                <span class="price">20,000</span>
                                 <span class="period">minimum</span>
                             </div>
                             <ul class="list">
-                                <li class="active">$10,000 Minimum Investment</li>
-                                <li class="active">$49,990 Maximum Investment</li>
-                                <li class="active">Personal Account Manager</li>
-                                <li class="active">4.5% Daily R.O.I</li>
-                                <li class="active">5% Referral Bonus</li>
-                                <li class="active">60 Days Contract</li>
-                                <li class="active">10 Days Cash Out </li>
+                                <li class="active">$20,000 Minimum Investment</li>
+                                <li class="active">$99,990 Maximum Investment</li>
+                                <li class="active">25% R.O.I</li>
+                                <li class="active">Contract Duration 30 Days </li>
+                                <li class="active">Returns: Every 30 Days</li
                             </ul>
                         </div>
                         <div class="pricing-footer">
@@ -152,22 +148,20 @@
                     data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
                     <div class="pricing-item">
                         <div class="pricing-header">
-                            <h3 class="pricing-title">DIAMOND</h3>
+                            <h3 class="pricing-title">LIFE</h3>
                         </div>
                         <div class="pricing-body">
                             <div class="price-wrapper">
                                 <span class="currency">$</span>
-                                <span class="price">50,000</span>
+                                <span class="price">100,000</span>
                                 <span class="period">minimum</span>
                             </div>
                             <ul class="list">
-                                <li class="active">$50,000 Minimum Investment</li>
+                                <li class="active">$100,000 Minimum Investment</li>
                                 <li class="active">Unlimited</li>
-                                <li class="active">Personal Account Manager</li>
-                                <li class="active">5.0% Daily R.O.I</li>
-                                <li class="active">5% Referral Bonus</li>
-                                <li class="active">60 Days Contract</li>
-                                <li class="active">15 Days Cash Out </li>
+                                <li class="active">35% R.O.I</li>
+                                <li class="active">Contract Duration 60 Days </li>
+                                <li class="active">Returns: Every 60 Days</li
                             </ul>
                         </div>
                         <div class="pricing-footer">
