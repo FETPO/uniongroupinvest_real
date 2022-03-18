@@ -77,7 +77,7 @@
                                 </div>
                                 <h5 class="features-title">Forex</h5>
                                 <p>Our team of experience trader, trades you
-                                    funds all the time thereby growing you funds daily</p>
+                                    funds all the time thereby growing your funds daily</p>
                             </div>
                         </div>
                         <!-- ***** Features Small Item End ***** -->
@@ -151,19 +151,8 @@
                         <h2 class="section-title">WHY UNION GROUP INVESTMENTS</h2>
                     </div>
                     <div class="left-text">
-                        <p>We believe that superior investment performance is achieved through a skillful balance of
-                            three core attributes: knowledge, experience and adaptability. There is only one way to be
-                            on the cutting edge – commitment to innovation. We do our best to achieve a consistent
-                            increase in investment performance for our clients. We appreciate our clients loyalty and
-                            value the relationships we build with each customer. No matter what country you come from,
-                            our professional managers will help you to choose the investment product that best fits your
-                            demands. Our managers are constantly working on implementing unique trading methods with the
-                            most advanced and efficient trading technology, competitive services, high-quality
-                            performance, genuine practices, excellent customer support service and fund safety that
-                            allow us to work successfully on the market in a highly profitable way. Having different
-                            dynamic investment methods allows us to maintain a constant high interest rate for our
-                            clients. One of our strongest advantages over competitors is that we provide the utmost
-                            flexibility insurance on digital assets invested with us.</p>
+                        <p>
+                            We believe in investment in Advancement of innovative technologies all over the world, and the area of fintech in the financial industry, as well as the fields such as AI, blockchain/DLT and IoT, which are now introduced in various industries, hold the potential of creating a trend that the Group has never seen before. Through maximum utilization of business resources and triggering social revolution by these technologies, the Union Group Invest will realize the revitalization of regional economies, which will ultimately contribute to regional revitalization, by providing various initiatives that would improve the valuation of regional financial institutions, as well as promoting efforts that would directly contribute to the revitalization of local industries.</p>
                     </div>
                 </div>
                 <div class="col-lg-1"></div>
@@ -569,7 +558,7 @@
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p>We bring you lattest news in the capital market and financial and cryptocurrency invesment ecosytem</p>
+                        <p>We bring you latest news in the capital market and financial and cryptocurrency invesment ecosytem</p>
                     </div>
                 </div>
             </div>
