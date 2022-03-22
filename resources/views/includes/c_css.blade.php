@@ -6,7 +6,8 @@
 <link rel="shortcut icon" type="image/png" href="{{ asset("assets/images/home/master/favicon.png") }}"/>
 <link rel="stylesheet" href="{{ asset("assets/css/dashboard/dashlite.css") }}">
 <link id="skin-default" rel="stylesheet" href="{{ asset("assets/css/dashboard/theme.css") }}">
-<link rel="shortcut icon" type="image/png" href="{{ asset("assets/images/home/logo/ProStack_favicon.png") }}"/>
+<link rel="shortcut icon" type="image/png" href="{{ asset("assets/images/ugp.png") }}"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
 <meta name="description" content=""/>
   <meta name="keywords" content="">
   <meta name="csrf-token" content="{{ csrf_token() }}" />

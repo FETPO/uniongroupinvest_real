@@ -61,7 +61,7 @@
                     <p>UnionGroup Invest was established in 2003 and it
                         initially began trading stocks, shares and bonds, it got involved in
                         forex in 2008 and was among the pioneer traders of Cryptocurrencies in
-                        the advent of Bitcoin in 2010. Intersperse Finance is currently managed
+                        the advent of Bitcoin in 2010. Union group invest is currently managed
                         by a senior team which has extensive experience in the development and
                         implementation of systematic investment strategies. The company
                         emphasises strong corporate governance and the provision of first class

@@ -14,6 +14,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 <link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700,900" rel="stylesheet">
+<link rel="shortcut icon" type="image/png" href="{{ asset("assets/images/ugp.png") }}"/>
 
 <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/bootstrap.min.css') }}">
 
@@ -23,17 +24,21 @@
 
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">
-    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-    (function(){
-    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-    s1.async=true;
-    s1.src='https://embed.tawk.to/622f407fa34c2456412af87e/1fu497sve';
-    s1.charset='UTF-8';
-    s1.setAttribute('crossorigin','*');
-    s0.parentNode.insertBefore(s1,s0);
+    var Tawk_API = Tawk_API || {},
+        Tawk_LoadStart = new Date();
+    (function() {
+        var s1 = document.createElement("script"),
+            s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/622f407fa34c2456412af87e/1fu497sve';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
     })();
-    </script>
-    <!--End of Tawk.to Script-->
+</script>
+<!--End of Tawk.to Script-->
+<script src="https://widgets.coingecko.com/coingecko-coin-price-marquee-widget.js"></script>
+<coingecko-coin-price-marquee-widget  coin-ids="bitcoin,ethereum,eos,ripple,litecoin" currency="usd" background-color="#ffffff" locale="en"></coingecko-coin-price-marquee-widget>
 
 <style>
     .poom {
@@ -46,10 +51,11 @@
         font-weight: 700;
         text-decoration: underline;
     }
+
     /* .footer */
 
     .footer-distributed {
-        background: rgb(130,97, 238);
+        background: rgb(130, 97, 238);
         box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
         box-sizing: border-box;
         width: 100%;
@@ -211,60 +217,60 @@
 
 
 
-.faq-heading {
-  margin-top: 45px;
-  margin-bottom: 15px;
-  text-align: center;
-  font-weight: 400;
-  font-size: 30px;
-}
+    .faq-heading {
+        margin-top: 45px;
+        margin-bottom: 15px;
+        text-align: center;
+        font-weight: 400;
+        font-size: 30px;
+    }
 
-.faq-card {
-  border: 1px solid #dce0e8;
-  border-radius: 6px;
-  padding: 24px 20px;
-  margin-bottom: 12px;
-  list-style: none;
-  position: relative;
-  cursor: pointer;
-}
+    .faq-card {
+        border: 1px solid #dce0e8;
+        border-radius: 6px;
+        padding: 24px 20px;
+        margin-bottom: 12px;
+        list-style: none;
+        position: relative;
+        cursor: pointer;
+    }
 
-.faq-open-icon {
-  font-size: 22px;
-  position: absolute;
-  top: 18px;
-  right: 24px;
-  font-weight: 700;
-}
+    .faq-open-icon {
+        font-size: 22px;
+        position: absolute;
+        top: 18px;
+        right: 24px;
+        font-weight: 700;
+    }
 
-details[open] .faq-open-icon {
-  top: 18px;
-  right: 24px;
-}
+    details[open] .faq-open-icon {
+        top: 18px;
+        right: 24px;
+    }
 
-details > summary {
-  list-style: none;
-}
+    details>summary {
+        list-style: none;
+    }
 
-details > summary::-webkit-details-marker {
-  display: none;
-}
+    details>summary::-webkit-details-marker {
+        display: none;
+    }
 
-details[open] summary {
-  color: #0186ff;
-  font-weight: 500;
-}
+    details[open] summary {
+        color: #0186ff;
+        font-weight: 500;
+    }
 
-details[open] .faq-card-spoiler {
-  display: inline-block;
-  padding-top: 8px;
-  color: #8b8b9a;
-}
+    details[open] .faq-card-spoiler {
+        display: inline-block;
+        padding-top: 8px;
+        color: #8b8b9a;
+    }
 
-.faq-aftertext {
-  text-align: center;
-  color: #8b8b9a;
-}
+    .faq-aftertext {
+        text-align: center;
+        color: #8b8b9a;
+    }
 
     /* If you don't want the footer to be responsive, remove these media queries */
 
@@ -298,5 +304,3 @@ details[open] .faq-card-spoiler {
 <link rel="stylesheet" href="css/owl.carousel.css">
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="css/responsive.css"> --}}
-
-

@@ -42,10 +42,13 @@
                                         </h2>
                                         <div class="nk-block-des">
                                             <p>At a glance summary of your account. Have fun!</p>
-                                            <p class="w-75 alert alert-info">REFERAL LINK:
-                                                <input type="text" class=" form-control"
-                                                    value="{{ route('user.register', [auth()->user()->username]) }}">
+                                            <p class="w-75 alert alert-info" >COPY REFERAL LINK:
+                                               
+                                                <input type="text" class=" form-control" id="textToCopy"
+                                                    value="{{ route('user.register', [auth()->user()->username]) }}">              
                                             </p>
+                                            <button id="copyButton" style="border-radius: 20px">Click to copy  <i class="fas fa-clipboard" ></i></button>
+                                            <span id="copyResult"></span>
                                         </div>
                                     </div><!-- .nk-block-head-content -->
                                     <div class="nk-block-head-content">

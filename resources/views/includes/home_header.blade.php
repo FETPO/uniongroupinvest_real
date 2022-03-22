@@ -16,7 +16,7 @@
                         <li><a href="{{ route('investment_plans') }}" >Investment Plans</a></li>
                         <li><a href="{{ route('about') }}">About us</a></li>
                         <li class="dropdown show">
-                            <a class="btn btn-primary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: white">
+                            <a class="btn btn-light dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: black">
                               Services
                             </a>
                           

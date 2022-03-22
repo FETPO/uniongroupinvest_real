@@ -151,7 +151,7 @@
                         <div class="team-content">
                             <i><img src="assets/images/testimonial-icon.png" alt=""></i>
                             <p>Our team of experience trader, trades you
-                                funds all the time thereby growing you funds daily </p>
+                                funds all the time thereby growing your funds daily </p>
                             {{-- <a href="{{ route('escrow') }}" class="default-button">Learn more</a> --}}
                             <div class="user-image">
                                 <img src="http://placehold.it/60x60" alt="">
@@ -367,7 +367,7 @@
                             <div class="service-text">
                                 <h4>FOREX</h4>
                                 <p>Our team of experience trader, trades you
-                                    funds all the time thereby growing you funds daily </p>
+                                    funds all the time thereby growing your funds daily </p>
                                 <a href="{{ route('forex') }}" class="default-button">Learn more</a>
                             </div>
                         </div>

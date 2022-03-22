@@ -338,7 +338,7 @@
                         <div class="team-content">
                             <i><img src="assets/images/testimonial-icon.png" alt=""></i>
                             <p>Our team of experience trader, trades you
-                                funds all the time thereby growing you funds daily </p>
+                                funds all the time thereby growing your funds daily </p>
                             {{-- <a href="{{ route('escrow') }}" class="default-button">Learn more</a> --}}
                             <div class="user-image">
                                 <img src="http://placehold.it/60x60" alt="">
@@ -558,7 +558,7 @@
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p>We bring you latest news in the capital market and financial and cryptocurrency invesment ecosytem</p>
+                        <p>We bring you the latest news in the capital market and financial and cryptocurrency invesment ecosytem</p>
                     </div>
                 </div>
             </div>

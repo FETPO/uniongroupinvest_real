@@ -62,7 +62,7 @@
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <p>Getting a loan doesn’t have to be intimidating, with the right lender
                         it can be a simple process. You only need a lender committed to taking the mystery out of
-                        the mortgage loan process! At Intersperse finance we understand! Our investors want simple
+                        the mortgage loan process! At Union group invest we understand! Our investors want simple
                         facts, honest answers and competitive products.
 
                         Uniongroup invest automatically offers loan services to investors with over $100,000
