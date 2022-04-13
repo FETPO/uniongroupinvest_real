@@ -214,7 +214,7 @@
 <head>
 
 
-    <title>Softy Pinko - Bootstrap 4.0 Theme</title>
+    <title>Frequently Asked Questions</title>
 
     @include('includes.home_css')
 

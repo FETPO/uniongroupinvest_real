@@ -7,7 +7,7 @@
 <head>
 
 
-    <title>Softy Pinko - Bootstrap 4.0 Theme</title>
+    <title>Stocks</title>
 
     @include('includes.home_css')
 

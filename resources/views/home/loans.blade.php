@@ -1,14 +1,10 @@
-
-
-
-
-                            <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
 
 
-    <title>Softy Pinko - Bootstrap 4.0 Theme</title>
+    <title>Loans</title>
 
     @include('includes.home_css')
 
@@ -23,7 +19,7 @@
             <div></div>
         </div>
     </div>
- 
+
     @include('includes.home_header')
 
     <section class="mini" id="work-process">
@@ -43,17 +39,17 @@
             </div>
         </div>
     </section>
-  
+
     <section class="  section" id="testimonials">
         <div class="container">
-        
+
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading">
                         <h2 class="section-title">PERSONAL LOANS</h2>
                     </div>
                 </div>
-              
+
             </div>
             <!-- ***** Section Title End ***** -->
 
@@ -77,7 +73,7 @@
                         secured.
 
                         GREAT INVESTING WITH THE Uniongroup invest FAMILY!</p>
-                    
+
                 </div>
                 <!-- ***** Testimonials Item End ***** -->
 
@@ -85,7 +81,7 @@
             </div>
         </div>
     </section>
-  
+
     <section class="section colored" id="contact-us">
         <div class="container">
             <!-- ***** Section Title Start ***** -->
@@ -108,7 +104,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <h5 class="margin-bottom-30">Keep in touch</h5>
                     <div class="contact-text">
-                        <p>                                Send us a message for all your enquiries </p>
+                        <p> Send us a message for all your enquiries </p>
                     </div>
                 </div>
                 <!-- ***** Contact Text End ***** -->
@@ -132,8 +128,7 @@
                                 </div>
                                 <div class="col-lg-12">
                                     <fieldset>
-                                        <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your Message"
-                                            required=""></textarea>
+                                        <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your Message" required=""></textarea>
                                     </fieldset>
                                 </div>
                                 <div class="col-lg-12">
@@ -150,7 +145,7 @@
             </div>
         </div>
     </section>
-  
+
 
 
     @include('includes.home_footer')

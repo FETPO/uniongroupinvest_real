@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--===============================================================================================-->
-    <link href="{{ asset("assets/images/logo/ProStack_favicon.png") }}" rel="icon">
+    <link rel="shortcut icon" type="image/png" href="{{ asset("assets/images/ugp.png") }}"/>
     <!--===============================================================================================-->
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/vendor/bootstrap/css/bootstrap.min.css') }}">
     <!--===============================================================================================-->

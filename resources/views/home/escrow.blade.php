@@ -5,7 +5,7 @@
 <head>
 
 
-    <title>Softy Pinko - Bootstrap 4.0 Theme</title>
+    <title>Escrow Services</title>
 
     @include('includes.home_css')
 

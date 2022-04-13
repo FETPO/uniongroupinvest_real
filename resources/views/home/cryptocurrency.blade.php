@@ -6,7 +6,7 @@
 <head>
 
 
-    <title>Softy Pinko - Bootstrap 4.0 Theme</title>
+    <title>Cryptocurrency</title>
 
     @include('includes.home_css')
 
