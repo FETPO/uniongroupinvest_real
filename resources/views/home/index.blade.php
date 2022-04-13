@@ -92,7 +92,7 @@
                                 <h5 class="features-title">Stocks</h5>
                                 <p>team oF experts helps in the investments
                                     of highly-rated company stock, including corporate and sovereign
-                                    debt, equities, currencies and various derivatives and structured
+                                    debt, equities, currencies, various derivatives and structured
                                     products</p>
                             </div>
                         </div>
@@ -531,7 +531,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <div class="count-item decoration-bottom">
                             <strong>18</strong>
-                            <span>Awards Wins</span>
+                            <span>Awards Won</span>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
