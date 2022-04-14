@@ -37,7 +37,7 @@
                     <div class="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
                         <h1>We provide the best <strong>strategy</strong><br>to grow up your <strong>business</strong>
                         </h1>
-                        <p>We offer services ranging from forex, cryptocurrencies, real_estate, escrow services, loans
+                        <p >We offer services ranging from forex, cryptocurrencies, real_estate, escrow services, loans
                             and stocks</p>
                         <a href="{{ route('services') }}" class="main-button-slider">Discover More</a>
                     </div>
@@ -61,8 +61,8 @@
                                 <div class="icon">
                                     <i><img src="{{ asset('assets/images/featured-item-01.png') }}" alt=""></i>
                                 </div>
-                                <h5 class="features-title">Cryptocurrencies</h5>
-                                <p>we help you manage your cryptocurrency
+                                <h5 style="font-weight: bold" class="features-title">Cryptocurrencies</h5>
+                                <p style="font-weight: bold">we help you manage your cryptocurrency
                                     portfolio and help you grow them exponentially</p>
                             </div>
                         </div>
@@ -75,8 +75,8 @@
                                 <div class="icon">
                                     <i><img src="{{ asset('assets/images/featured-item-01.png') }}" alt=""></i>
                                 </div>
-                                <h5 class="features-title">Forex</h5>
-                                <p>Our team of experience trader, trades you
+                                <h5 style="font-weight: bold" class="features-title">Forex</h5>
+                                <p style="font-weight: bold">Our team of experience trader, trades you
                                     funds all the time thereby growing your funds daily</p>
                             </div>
                         </div>
@@ -89,8 +89,8 @@
                                 <div class="icon">
                                     <i><img src="{{ asset('assets/images/featured-item-01.png') }}" alt=""></i>
                                 </div>
-                                <h5 class="features-title">Stocks</h5>
-                                <p>team oF experts helps in the investments
+                                <h5 style="font-weight: bold"  class="features-title">Stocks</h5>
+                                <p style="font-weight: bold">team oF experts helps in the investments
                                     of highly-rated company stock, including corporate and sovereign
                                     debt, equities, currencies, various derivatives and structured
                                     products</p>
@@ -116,12 +116,12 @@
                 <div class="col-lg-1"></div>
                 <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
                     <div class="left-heading">
-                        <h2 class="section-title">WE ARE UNION GROUP INVESTMENTS</h2>
+                        <h2 style="font-weight: bold" class="section-title">WE ARE UNION GROUP INVESTMENTS</h2>
                     </div>
                     <div class="left-text">
-                        <p>We believe that superior investment performance is achieved through a skillful balance of
+                        <p style="font-weight: bold">We believe that superior investment performance is achieved through a skillful balance of
                             three core attributes: knowledge, experience and adaptability.</p>
-                        <p>There is only one way to be on the cutting edge – commitment to innovation. We do our best to
+                        <p style="font-weight: bold">There is only one way to be on the cutting edge – commitment to innovation. We do our best to
                             achieve a consistent increase in investment performance for our clients. We appreciate our
                             clients loyalty and value the relationships we build with each customer. No matter what
                             country you come from, our professional managers will help you to choose the investment
@@ -148,10 +148,10 @@
             <div class="row">
                 <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-bottom-fix">
                     <div class="left-heading">
-                        <h2 class="section-title">WHY UNION GROUP INVESTMENTS</h2>
+                        <h2 style="font-weight: bold" class="section-title">WHY UNION GROUP INVESTMENTS</h2>
                     </div>
                     <div class="left-text">
-                        <p>
+                        <p style="font-weight: bold">
                             We believe in investment in Advancement of innovative technologies all over the world, and the area of fintech in the financial industry, as well as the fields such as AI, blockchain/DLT and IoT, which are now introduced in various industries, hold the potential of creating a trend that the Group has never seen before. Through maximum utilization of business resources and triggering social revolution by these technologies, the Union Group Invest will realize the revitalization of regional economies, which will ultimately contribute to regional revitalization, by providing various initiatives that would improve the valuation of regional financial institutions, as well as promoting efforts that would directly contribute to the revitalization of local industries.</p>
                     </div>
                 </div>
@@ -173,8 +173,8 @@
                 <div class="row">
                     <div class="offset-lg-3 col-lg-6">
                         <div class="info">
-                            <h1>Work Process</h1>
-                            <p>This is are the steps you have to take on our platform to get you started</p>
+                            <h1 style="font-weight: bold">Work Process</h1>
+                            <p style="font-weight: bold">This is are the steps you have to take on our platform to get you started</p>
                         </div>
                     </div>
                 </div>
@@ -184,35 +184,35 @@
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="{{ asset('assets/images/work-process-item-01.png') }}" alt=""></i>
-                            <strong>Register</strong>
+                            <strong style="font-weight: bold">Register</strong>
                             {{-- <span>Godard pabst prism fam cliche.</span> --}}
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="{{ asset('assets/images/work-process-item-01.png') }}" alt=""></i>
-                            <strong>Login</strong>
+                            <strong style="font-weight: bold">Login</strong>
                             {{-- <span>Godard pabst prism fam cliche.</span> --}}
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="{{ asset('assets/images/work-process-item-01.png') }}" alt=""></i>
-                            <strong>Make a Deposit</strong>
+                            <strong style="font-weight: bold">Make a Deposit</strong>
                             {{-- <span>Godard pabst prism fam cliche.</span> --}}
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="{{ asset('assets/images/work-process-item-01.png') }}" alt=""></i>
-                            <strong>Select a plan</strong>
+                            <strong style="font-weight: bold">Select a plan</strong>
                             {{-- <span>Godard pabst prism fam cliche.</span> --}}
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
                             <i><img src="{{ asset('assets/images/work-process-item-01.png') }}" alt=""></i>
-                            <strong>Make an Invesment</strong>
+                            <strong style="font-weight: bold">Make an Invesment</strong>
                             {{-- <span>Godard pabst prism fam cliche.</span> --}}
                         </a>
                     </div>
@@ -220,7 +220,7 @@
                         <a href="#" class="mini-box">
                             <i><img src="{{ asset('assets/images/work-process-item-01.png') }}" alt=""></i>
                             {{-- <i><img src="{{ asset('assets/images/work-process-item-01.png') }} alt=""></i> --}}
-                            <strong>Withdraw you profit</strong>
+                            <strong style="font-weight: bold">Withdraw you profit</strong>
                             {{-- <span>Godard pabst </span> --}}
                         </a>
                     </div>
@@ -238,12 +238,12 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading">
-                        <h2 class="section-title">OUR SERVICES</h2>
+                        <h2 class="section-title" style="font-weight: bold">OUR SERVICES</h2>
                     </div>
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p>when your people get up every day wanting to come to work,
+                        <p style="font-weight: bold">when your people get up every day wanting to come to work,
                             success happens, we help you to ensure everyone makes the right investment
                         </p>
                     </div>
@@ -257,13 +257,13 @@
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/testimonial-icon.png" alt=""></i>
-                            <p>we help you manage your cryptocurrency
+                            <p style="font-weight: bold">we help you manage your cryptocurrency
                                 portfolio and help you grow them exponentially</p>
                             <div class="user-image">
                                 <img src="http://placehold.it/60x60" alt="">
                             </div>
                             <div class="team-info">
-                                <h2 class="user-name">Cryptocurrencies</h2>
+                                <h2  style="font-weight: bold" class="user-name">Cryptocurrencies</h2>
                                 {{-- <span>Managing Director</span> --}}
                             </div>
                         </div>
@@ -276,14 +276,14 @@
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/testimonial-icon.png" alt=""></i>
-                            <p>We offer escrow services to our customers who
+                            <p style="font-weight: bold">We offer escrow services to our customers who
                                 needs to make exchanges between two parties </p>
                             {{-- <a href="{{ route('escrow') }}" class="default-button">Learn more</a> --}}
                             <div class="user-image">
                                 <img src="http://placehold.it/60x60" alt="">
                             </div>
                             <div class="team-info">
-                                <h2 class="user-name">Escrow</h2>
+                                <h2 style="font-weight: bold" class="user-name">Escrow</h2>
                                 {{-- <span>Digital Marketer</span> --}}
                             </div>
                         </div>
@@ -296,7 +296,7 @@
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="{{ asset('assets/images/testimonial-icon.png') }}" alt=""></i>
-                            <p>team oF experts helps in the investments
+                            <p style="font-weight: bold">team oF experts helps in the investments
                                 of highly-rated company stock, including corporate and sovereign
                                 debt, equities, currencies and various derivatives and structured
                                 products</p>
@@ -304,7 +304,7 @@
                                 <img src="http://placehold.it/60x60" alt="">
                             </div>
                             <div class="team-info">
-                                <h2 class="user-name">Stocks</h2>
+                                <h2 style="font-weight: bold" class="user-name">Stocks</h2>
                                 {{-- <span>Website Manager</span> --}}
                             </div>
                         </div>
@@ -318,13 +318,13 @@
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/testimonial-icon.png" alt=""></i>
-                            <p>We also run real estate fund investments
+                            <p style="font-weight: bold">We also run real estate fund investments
                                 which has proven to give the highest returns in recent times </p>
                             <div class="user-image">
                                 <img src="http://placehold.it/60x60" alt="">
                             </div>
                             <div class="team-info">
-                                <h2 class="user-name">Real Estate</h2>
+                                <h2 class="user-name" style="font-weight: bold">Real Estate</h2>
                                 {{-- <span>Managing Director</span> --}}
                             </div>
                         </div>
@@ -337,14 +337,14 @@
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="assets/images/testimonial-icon.png" alt=""></i>
-                            <p>Our team of experience trader, trades you
+                            <p style="font-weight: bold">Our team of experience trader, trades you
                                 funds all the time thereby growing your funds daily </p>
                             {{-- <a href="{{ route('escrow') }}" class="default-button">Learn more</a> --}}
                             <div class="user-image">
                                 <img src="http://placehold.it/60x60" alt="">
                             </div>
                             <div class="team-info">
-                                <h2 class="user-name">Forex</h2>
+                                <h2 style="font-weight: bold" class="user-name">Forex</h2>
                                 {{-- <span>Digital Marketer</span> --}}
                             </div>
                         </div>
@@ -357,7 +357,7 @@
                     <div class="team-item">
                         <div class="team-content">
                             <i><img src="{{ asset('assets/images/testimonial-icon.png') }}" alt=""></i>
-                            <p>Our company offers personal loans which can be
+                            <p style="font-weight: bold">Our company offers personal loans which can be
                                 used for a variety of things </p>
                             <div class="user-image">
                                 <img src="http://placehold.it/60x60" alt="">
@@ -518,26 +518,26 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <div class="count-item decoration-bottom">
-                            <strong>1,231,506</strong>
-                            <span>Trades completed</span>
+                            <strong style="font-weight: bold">1,231,506</strong>
+                            <span style="font-weight: bold">Trades completed</span>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <div class="count-item decoration-top">
-                            <strong>63,451</strong>
-                            <span>Happy Clients</span>
+                            <strong style="font-weight: bold">63,451</strong>
+                            <span style="font-weight: bold">Happy Clients</span>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <div class="count-item decoration-bottom">
-                            <strong>18</strong>
-                            <span>Awards Won</span>
+                            <strong style="font-weight: bold">18</strong>
+                            <span style="font-weight: bold">Awards Won</span>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <div class="count-item">
-                            <strong>57</strong>
-                            <span>Countries</span>
+                            <strong style="font-weight: bold">57</strong>
+                            <span style="font-weight: bold">Countries</span>
                         </div>
                     </div>
                 </div>
@@ -553,12 +553,12 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading">
-                        <h2 class="section-title">Blog Entries</h2>
+                        <h2 style="font-weight: bold" class="section-title">Blog Entries</h2>
                     </div>
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p>We bring you the latest news in the capital market and financial and cryptocurrency invesment ecosytem</p>
+                        <p style="font-weight: bold">We bring you the latest news in the capital market and financial and cryptocurrency invesment ecosytem</p>
                     </div>
                 </div>
             </div>
@@ -572,12 +572,12 @@
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">Dogecoin Spikes Briefly After Musk Says He Won't Sell His Crypto Holdings</a>
+                                <a style="font-weight: bold" href="#">Dogecoin Spikes Briefly After Musk Says He Won't Sell His Crypto Holdings</a>
                             </h3>
-                            <div class="text">
+                            <div class="text" style="font-weight: bold">
                                 Dogecoin (DOGE) briefly jumped as much as 10% during Asian trading hours on Monday after Tesla CEO Elon Musk said in a tweet that he is not selling his crypto holdings, which includes DOGE.
                             </div>
-                            <a href="#" class="main-button">Read More</a>
+                            <a style="font-weight: bold" href="#" class="main-button">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -588,12 +588,12 @@
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">Crypto Tax Prep Business Booms as Trading Surges and IRS Tightens Screws</a>
+                                <a style="font-weight: bold" href="#">Crypto Tax Prep Business Booms as Trading Surges and IRS Tightens Screws</a>
                             </h3>
-                            <div class="text">
+                            <div class="text" style="font-weight: bold">
                                 Startups that help Americans calculate their crypto taxes have been raising hundreds of millions, hitting unicorn valuations. Even traditional tax-prep firms are rolling out crypto services. This piece is part of CoinDesk's Tax Week.
                             </div>
-                            <a href="#" class="main-button">Read More</a>
+                            <a style="font-weight: bold" href="#" class="main-button">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -604,12 +604,12 @@
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a href="#">Bitcoin Again Bounces Off 'Cloud' Support; Resistance at $42.6K</a>
+                                <a style="font-weight: bold" href="#">Bitcoin Again Bounces Off 'Cloud' Support; Resistance at $42.6K</a>
                             </h3>
-                            <div class="text">
+                            <div class="text" style="font-weight: bold">
                                 A popular technical analysis study, the Ichimoku cloud showed weekly support for bitcoin (BTC) near $37,600, and the leading cryptocurrency overnight tumbled to right around that level before stabilizing. At last check bitcoin had bounced back to $39,000.
                             </div>
-                            <a href="#" class="main-button">Read More</a>
+                            <a href="#" class="main-button" style="font-weight: bold">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -625,12 +625,12 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="center-heading">
-                        <h2 class="section-title">Talk To Us</h2>
+                        <h2 style="font-weight: bold" class="section-title">Talk To Us</h2>
                     </div>
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p>We are always available 24/7 to cater to your needs and serve you better</p>
+                        <p style="font-weight: bold">We are always available 24/7 to cater to your needs and serve you better</p>
                     </div>
                 </div>
             </div>
@@ -639,9 +639,9 @@
             <div class="row">
                 <!-- ***** Contact Text Start ***** -->
                 <div class="col-lg-4 col-md-6 col-sm-12">
-                    <h5 class="margin-bottom-30">Keep in touch</h5>
+                    <h5 style="font-weight: bold" class="margin-bottom-30">Keep in touch</h5>
                     <div class="contact-text">
-                        <p>                                Send us a message for all your enquiries </p>
+                        <p style="font-weight: bold">                                Send us a message for all your enquiries </p>
                     </div>
                 </div>
                 <!-- ***** Contact Text End ***** -->
