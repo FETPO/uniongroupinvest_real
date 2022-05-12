@@ -37,7 +37,7 @@
                     <div class="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
                         <h1>We provide the best <strong>strategy</strong><br>to grow up your <strong>business</strong>
                         </h1>
-                        <p >We offer services ranging from forex, cryptocurrencies, real_estate, escrow services, loans
+                        <p>We offer services ranging from forex, cryptocurrencies, real_estate, escrow services, loans
                             and stocks</p>
                         <a href="{{ route('services') }}" class="main-button-slider">Discover More</a>
                     </div>
@@ -89,7 +89,7 @@
                                 <div class="icon">
                                     <i><img src="{{ asset('assets/images/featured-item-01.png') }}" alt=""></i>
                                 </div>
-                                <h5 style="font-weight: bold"  class="features-title">Stocks</h5>
+                                <h5 style="font-weight: bold" class="features-title">Stocks</h5>
                                 <p style="font-weight: bold">team oF experts helps in the investments
                                     of highly-rated company stock, including corporate and sovereign
                                     debt, equities, currencies, various derivatives and structured
@@ -119,9 +119,11 @@
                         <h2 style="font-weight: bold" class="section-title">WE ARE UNION GROUP INVESTMENTS</h2>
                     </div>
                     <div class="left-text">
-                        <p style="font-weight: bold">We believe that superior investment performance is achieved through a skillful balance of
+                        <p style="font-weight: bold">We believe that superior investment performance is achieved through
+                            a skillful balance of
                             three core attributes: knowledge, experience and adaptability.</p>
-                        <p style="font-weight: bold">There is only one way to be on the cutting edge – commitment to innovation. We do our best to
+                        <p style="font-weight: bold">There is only one way to be on the cutting edge – commitment to
+                            innovation. We do our best to
                             achieve a consistent increase in investment performance for our clients. We appreciate our
                             clients loyalty and value the relationships we build with each customer. No matter what
                             country you come from, our professional managers will help you to choose the investment
@@ -152,7 +154,15 @@
                     </div>
                     <div class="left-text">
                         <p style="font-weight: bold">
-                            We believe in investment in Advancement of innovative technologies all over the world, and the area of fintech in the financial industry, as well as the fields such as AI, blockchain/DLT and IoT, which are now introduced in various industries, hold the potential of creating a trend that the Group has never seen before. Through maximum utilization of business resources and triggering social revolution by these technologies, the Union Group Invest will realize the revitalization of regional economies, which will ultimately contribute to regional revitalization, by providing various initiatives that would improve the valuation of regional financial institutions, as well as promoting efforts that would directly contribute to the revitalization of local industries.</p>
+                            We believe in investment in Advancement of innovative technologies all over the world, and
+                            the area of fintech in the financial industry, as well as the fields such as AI,
+                            blockchain/DLT and IoT, which are now introduced in various industries, hold the potential
+                            of creating a trend that the Group has never seen before. Through maximum utilization of
+                            business resources and triggering social revolution by these technologies, the Union Group
+                            Invest will realize the revitalization of regional economies, which will ultimately
+                            contribute to regional revitalization, by providing various initiatives that would improve
+                            the valuation of regional financial institutions, as well as promoting efforts that would
+                            directly contribute to the revitalization of local industries.</p>
                     </div>
                 </div>
                 <div class="col-lg-1"></div>
@@ -174,7 +184,8 @@
                     <div class="offset-lg-3 col-lg-6">
                         <div class="info">
                             <h1 style="font-weight: bold">Work Process</h1>
-                            <p style="font-weight: bold">This is are the steps you have to take on our platform to get you started</p>
+                            <p style="font-weight: bold">This is are the steps you have to take on our platform to get
+                                you started</p>
                         </div>
                     </div>
                 </div>
@@ -263,7 +274,7 @@
                                 <img src="http://placehold.it/60x60" alt="">
                             </div>
                             <div class="team-info">
-                                <h2  style="font-weight: bold" class="user-name">Cryptocurrencies</h2>
+                                <h2 style="font-weight: bold" class="user-name">Cryptocurrencies</h2>
                                 {{-- <span>Managing Director</span> --}}
                             </div>
                         </div>
@@ -418,7 +429,7 @@
                             </ul>
                         </div>
                         <div class="pricing-footer">
-                            <a href="{{ route("user.register") }}" class="main-button">Register Now</a>
+                            <a href="{{ route('user.register') }}" class="main-button">Register Now</a>
                         </div>
                     </div>
                 </div>
@@ -443,11 +454,10 @@
                                 {{-- <li class="active">Personal Account Manager</li> --}}
                                 <li class="active">15% R.O.I</li>
                                 <li class="active">Contract Duration 30 Days </li>
-                                <li class="active">Returns: Every 15 Days</li
-                            </ul>
+                                <li class="active">Returns: Every 15 Days</li </ul>
                         </div>
                         <div class="pricing-footer">
-                            <a href="{{ route("user.register") }}" class="main-button">Register Now</a>
+                            <a href="{{ route('user.register') }}" class="main-button">Register Now</a>
                         </div>
                     </div>
                 </div>
@@ -471,11 +481,10 @@
                                 <li class="active">$99,990 Maximum Investment</li>
                                 <li class="active">25% R.O.I</li>
                                 <li class="active">Contract Duration 30 Days </li>
-                                <li class="active">Returns: Every 30 Days</li
-                            </ul>
+                                <li class="active">Returns: Every 30 Days</li </ul>
                         </div>
                         <div class="pricing-footer">
-                            <a href="{{ route("user.register") }}" class="main-button">Register Now</a>
+                            <a href="{{ route('user.register') }}" class="main-button">Register Now</a>
                         </div>
                     </div>
                 </div>
@@ -497,11 +506,10 @@
                                 <li class="active">Unlimited</li>
                                 <li class="active">35% R.O.I</li>
                                 <li class="active">Contract Duration 60 Days </li>
-                                <li class="active">Returns: Every 60 Days</li
-                            </ul>
+                                <li class="active">Returns: Every 60 Days</li </ul>
                         </div>
                         <div class="pricing-footer">
-                            <a href="{{ route("user.register") }}" class="main-button">Register Now</a>
+                            <a href="{{ route('user.register') }}" class="main-button">Register Now</a>
                         </div>
                     </div>
                 </div>
@@ -546,6 +554,58 @@
     </section>
     <!-- ***** Counter Parallax End ***** -->
 
+    <section class="testimonial text-center">
+        <div class="container">
+
+            <div class="heading white-heading">
+                Testimonial
+            </div>
+            <div id="testimonial4"
+                class="carousel slide testimonial4_indicators testimonial4_control_button thumb_scroll_x swipe_x"
+                data-ride="carousel" data-pause="hover" data-interval="5000" data-duration="2000">
+
+                <div class="carousel-inner" role="listbox">
+                    <div class="carousel-item active">
+                        <div class="testimonial4_slide">
+                            <img src="{{ asset('assets/images/testimonials/ts-1.jpg') }}" class="img-circle img-responsive" />
+                            <p>Investing in UnionGroupInvest has been been great. The company is a true 24/7 investment
+                                platform that is innovative, reliable and secure! </p>
+                            <h4>Carol Denneth</h4>
+                            <br>
+                            <h4>New York City</h4>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="testimonial4_slide">
+                            <img src="{{ asset('assets/images/testimonials/ts-2.jpg') }}" class="img-circle img-responsive" />
+                            <p>I have been investing in UnionGroupInvest since July 2021, They are truly amazing and are a
+                                key to me being able to retire from my job! I love their professionalism and responsiveness. </p>
+                                <h4>John camber</h4>
+                                <br>
+                                <h4>Los Angeles</h4>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="testimonial4_slide">
+                            <img src="{{ asset('assets/images/testimonials/ts-3.jpg') }}" class="img-circle img-responsive" />
+                            <p>The past couple of months I have invested with UnionGroupInvest invest I have been very pleased
+                                with their superb investment model and their professional & outstanding staff.</p>
+                                <h4>Denis Ortwele</h4>
+                                <br>
+                                <h4>Ottawa</h4>
+                        </div>
+                    </div>
+                </div>
+                <a class="carousel-control-prev" href="#testimonial4" data-slide="prev">
+                    <span class="carousel-control-prev-icon"></span>
+                </a>
+                <a class="carousel-control-next" href="#testimonial4" data-slide="next">
+                    <span class="carousel-control-next-icon"></span>
+                </a>
+            </div>
+        </div>
+    </section>
+
     <!-- ***** Blog Start ***** -->
     <section class="section" id="blog">
         <div class="container">
@@ -558,7 +618,8 @@
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p style="font-weight: bold">We bring you the latest news in the capital market and financial and cryptocurrency invesment ecosytem</p>
+                        <p style="font-weight: bold">We bring you the latest news in the capital market and financial
+                            and cryptocurrency invesment ecosytem</p>
                     </div>
                 </div>
             </div>
@@ -572,10 +633,13 @@
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a style="font-weight: bold" href="#">Dogecoin Spikes Briefly After Musk Says He Won't Sell His Crypto Holdings</a>
+                                <a style="font-weight: bold" href="#">Dogecoin Spikes Briefly After Musk Says He Won't
+                                    Sell His Crypto Holdings</a>
                             </h3>
                             <div class="text" style="font-weight: bold">
-                                Dogecoin (DOGE) briefly jumped as much as 10% during Asian trading hours on Monday after Tesla CEO Elon Musk said in a tweet that he is not selling his crypto holdings, which includes DOGE.
+                                Dogecoin (DOGE) briefly jumped as much as 10% during Asian trading hours on Monday after
+                                Tesla CEO Elon Musk said in a tweet that he is not selling his crypto holdings, which
+                                includes DOGE.
                             </div>
                             <a style="font-weight: bold" href="#" class="main-button">Read More</a>
                         </div>
@@ -588,10 +652,13 @@
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a style="font-weight: bold" href="#">Crypto Tax Prep Business Booms as Trading Surges and IRS Tightens Screws</a>
+                                <a style="font-weight: bold" href="#">Crypto Tax Prep Business Booms as Trading Surges
+                                    and IRS Tightens Screws</a>
                             </h3>
                             <div class="text" style="font-weight: bold">
-                                Startups that help Americans calculate their crypto taxes have been raising hundreds of millions, hitting unicorn valuations. Even traditional tax-prep firms are rolling out crypto services. This piece is part of CoinDesk's Tax Week.
+                                Startups that help Americans calculate their crypto taxes have been raising hundreds of
+                                millions, hitting unicorn valuations. Even traditional tax-prep firms are rolling out
+                                crypto services. This piece is part of CoinDesk's Tax Week.
                             </div>
                             <a style="font-weight: bold" href="#" class="main-button">Read More</a>
                         </div>
@@ -604,10 +671,13 @@
                         </div>
                         <div class="blog-content">
                             <h3>
-                                <a style="font-weight: bold" href="#">Bitcoin Again Bounces Off 'Cloud' Support; Resistance at $42.6K</a>
+                                <a style="font-weight: bold" href="#">Bitcoin Again Bounces Off 'Cloud' Support;
+                                    Resistance at $42.6K</a>
                             </h3>
                             <div class="text" style="font-weight: bold">
-                                A popular technical analysis study, the Ichimoku cloud showed weekly support for bitcoin (BTC) near $37,600, and the leading cryptocurrency overnight tumbled to right around that level before stabilizing. At last check bitcoin had bounced back to $39,000.
+                                A popular technical analysis study, the Ichimoku cloud showed weekly support for bitcoin
+                                (BTC) near $37,600, and the leading cryptocurrency overnight tumbled to right around
+                                that level before stabilizing. At last check bitcoin had bounced back to $39,000.
                             </div>
                             <a href="#" class="main-button" style="font-weight: bold">Read More</a>
                         </div>
@@ -616,6 +686,8 @@
             </div>
         </div>
     </section>
+
+
     <!-- ***** Blog End ***** -->
 
     <!-- ***** Contact Us Start ***** -->
@@ -630,7 +702,8 @@
                 </div>
                 <div class="offset-lg-3 col-lg-6">
                     <div class="center-text">
-                        <p style="font-weight: bold">We are always available 24/7 to cater to your needs and serve you better</p>
+                        <p style="font-weight: bold">We are always available 24/7 to cater to your needs and serve you
+                            better</p>
                     </div>
                 </div>
             </div>
@@ -641,7 +714,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <h5 style="font-weight: bold" class="margin-bottom-30">Keep in touch</h5>
                     <div class="contact-text">
-                        <p style="font-weight: bold">                                Send us a message for all your enquiries </p>
+                        <p style="font-weight: bold"> Send us a message for all your enquiries </p>
                     </div>
                 </div>
                 <!-- ***** Contact Text End ***** -->
