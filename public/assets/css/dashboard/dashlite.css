@@ -78,8 +78,8 @@
 /** Bootstrap v4.4.1 (https://getbootstrap.com/) Copyright 2011-2019 The Bootstrap Authors Copyright 2011-2019 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) */
 :root {
     --blue: #559bfb;
-    --indigo: #2c3782;
-    --purple: #816bff;
+    --indigo: rgb(3,6,55);
+    --purple: rgb(3,6,55);
     --pink: #ff63a5;
     --red: #e85347;
     --orange: #ffa353;
@@ -90,7 +90,7 @@
     --white: #fff;
     --gray: #6c757d;
     --gray-dark: #343a40;
-    --primary: #6576ff;
+    --primary: rgb(3,6,55);
     --secondary: #364a63;
     --success: #1ee0ac;
     --info: #09c2de;
@@ -144,7 +144,7 @@ body {
     font-size: 0.875rem;
     font-weight: 400;
     line-height: 1.65;
-    color: #526484;
+    color: rgb(3,6,55);
     text-align: left;
     background-color: #f5f6fa;
 }
@@ -242,7 +242,7 @@ sup {
 }
 
 a {
-    color: #798bff;
+    color: rgb(3, 6, 55);
     text-decoration: none;
     background-color: transparent;
 }
@@ -3602,7 +3602,7 @@ fieldset:disabled a.btn {
 
 .btn-link {
     font-weight: 400;
-    color: #798bff;
+    color: rgb(3, 6, 55);
     text-decoration: none;
 }
 
@@ -20756,7 +20756,7 @@ ol.linenums li {
 .datepicker table tr td.today:hover[disabled],
 .datepicker table tr td.today.disabled[disabled],
 .datepicker table tr td.today.disabled:hover[disabled] {
-    background-color: #798bff;
+    background-color: rgb(3, 6, 55);
 }
 
 .datepicker table tr td.today:active,
@@ -20816,7 +20816,7 @@ ol.linenums li {
 .datepicker table tr td.range.today:hover[disabled],
 .datepicker table tr td.range.today.disabled[disabled],
 .datepicker table tr td.range.today.disabled:hover[disabled] {
-    background-color: #798bff;
+    background-color: rgb(3, 6, 55);
 }
 
 .datepicker table tr td.range.today:active,
@@ -20876,7 +20876,7 @@ ol.linenums li {
 .datepicker table tr td.active:hover,
 .datepicker table tr td.active.disabled,
 .datepicker table tr td.active.disabled:hover {
-    background-color: #798bff;
+    background-color: rgb(3, 6, 55);
     color: #fff;
 }
 
@@ -20945,7 +20945,7 @@ ol.linenums li {
 .datepicker table tr td span.active:hover,
 .datepicker table tr td span.active.disabled,
 .datepicker table tr td span.active.disabled:hover {
-    background-color: #798bff;
+    background-color: rgb(3, 6, 55);
     color: #fff;
 }
 
@@ -26774,12 +26774,12 @@ body.nav-shown {
 
 .nk-menu-link:hover,
 .active > .nk-menu-link {
-    color: #7f8dff;
+    color: rgb(3, 6, 55);
 }
 
 .nk-menu-link:hover .count,
 .active > .nk-menu-link .count {
-    color: #7f8dff;
+    color: rgb(3, 6, 55);
 }
 
 .nk-menu-sub .nk-menu-link {
@@ -26817,7 +26817,7 @@ body.nav-shown {
 
 .is-light .nk-menu-link:hover,
 .is-light .active > .nk-menu-link {
-    color: #7f8dff;
+    color: rgb(3, 6, 55);
 }
 
 .is-theme .nk-menu-link:hover,
@@ -26859,7 +26859,7 @@ body.nav-shown {
 .nk-menu-link:hover .nk-menu-icon,
 .nk-menu-item.active > .nk-menu-link .nk-menu-icon,
 .nk-menu-item.current-menu > .nk-menu-link .nk-menu-icon {
-    color: #7f8dff;
+    color: rgb(3, 6, 55);
 }
 
 .is-theme .nk-menu-link:hover .nk-menu-icon,
@@ -26885,7 +26885,7 @@ body.nav-shown {
     border-radius: 3px;
     padding: 0 0.4rem;
     font-size: 11px;
-    color: #798bff;
+    color: rgb(3, 6, 55);
     background: #eff1ff;
     position: absolute;
     top: 50%;
@@ -26904,7 +26904,7 @@ body.nav-shown {
 }
 
 .nk-menu-main .nk-menu-sub .nk-menu-badge {
-    color: #798bff;
+    color: rgb(3, 6, 55);
     background: #eff1ff;
 }
 
@@ -27060,7 +27060,7 @@ body.nav-shown {
 }
 
 .nk-menu-sm .nk-menu-link:hover {
-    color: #7f8dff;
+    color: rgb(3, 6, 55);
 }
 
 .nk-menu-sm .nk-menu-icon {
@@ -27092,7 +27092,7 @@ body.nav-shown {
 }
 
 .nk-menu-md .nk-menu-link:hover {
-    color: #7f8dff;
+    color: rgb(3, 6, 55);
 }
 
 .nk-menu-md .nk-menu-icon {
@@ -27132,7 +27132,7 @@ body.nav-shown {
 }
 
 .nk-menu-footer .nk-menu-link:hover {
-    color: #7f8dff;
+    color: rgb(3, 6, 55);
 }
 
 .is-theme .nk-menu-footer .nk-menu-link {
@@ -27187,7 +27187,7 @@ body.nav-shown {
 .nk-menu-main .nk-menu-item.active > .nk-menu-link,
 .nk-menu-main .nk-menu-item.current-menu > .nk-menu-link,
 .nk-menu-main .nk-menu-item:hover > .nk-menu-link {
-    color: #7f8dff;
+    color: rgb(3, 6, 55);
 }
 
 .nk-menu-main > li > .nk-menu-link {
@@ -27231,7 +27231,7 @@ body.nav-shown {
         left: 0;
         right: 0;
         height: 3px;
-        background: #7f8dff;
+        background: rgb(3, 6, 55);
         border-radius: 3px 3px 0 0;
         opacity: 0;
     }
@@ -27444,7 +27444,7 @@ body.nav-shown {
     bottom: 0;
     left: 0;
     width: 3px;
-    background: #7f8dff;
+    background: rgb(3, 6, 55);
     border-radius: 0 2px 2px 0;
     opacity: 0;
 }
@@ -29755,7 +29755,7 @@ h6 .badge {
     justify-content: center;
     align-items: center;
     color: #fff;
-    background: #798bff;
+    background: rgb(3, 6, 55);
     font-size: 14px;
     font-weight: 500;
     letter-spacing: 0.06em;
@@ -30546,7 +30546,7 @@ h6 .badge {
     line-height: 1.5rem;
     border-radius: 50%;
     background: #e3e7fe;
-    color: #798bff;
+    color: rgb(3, 6, 55);
     margin-right: 0.5rem;
     font-size: 12px;
 }
@@ -31639,7 +31639,7 @@ body.toggle-shown {
 }
 
 .is-theme .nk-news-icon .icon {
-    color: #7f8dff;
+    color: rgb(3, 6, 55);
 }
 
 .nk-news-icon img {

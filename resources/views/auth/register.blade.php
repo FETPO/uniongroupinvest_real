@@ -28,7 +28,7 @@
     <!--===============================================================================================-->
 </head>
 
-<body>
+<body style="background-color: rgb(0, 0, 28) !important">
 
     <div class="limiter">
         <div class="container-login100">

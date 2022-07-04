@@ -1,256 +1,253 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<!-- Mirrored from template.viserlab.com/digihyip/demo/plan.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Jul 2022 07:13:26 GMT -->
 <head>
+    <title>Zenith Group Invest Investment Plans</title>
 
-
-    <title>Investment Plan</title>
-
-    @include('includes.home_css')
+    @include('includes.home1_css')
 
 </head>
-
 <body>
 
-    <div id="preloader">
-        <div class="jumper">
-            <div></div>
-            <div></div>
-            <div></div>
+    <div class="preloader">
+        <div class="preinnner">
+            <div class="ring"></div>
+            <div class="ring"></div>
+            <div class="ring"></div>
         </div>
     </div>
+    <div class="overlay"></div>
 
-    @include('includes.home_header')
+    <!-- Header Section Starts Here -->
+@include('includes.home_header1')
+<!-- Header Section Ends Here -->
 
-    <section class="mini" id="work-process">
-        <div class="mini-content">
-            <div class="container">
-                <div class="row">
-                    <div class="offset-lg-3 col-lg-6">
-                        <div class="info">
-                            <h1>Investment Plans</h1>
-                            <p>With this plans you can turn your finances around</p>
-                        </div>
-                    </div>
+
+
+    <!-- Search Form Starts Here -->
+    <div class="search__form__wrapper">
+        <div class="form__inner">
+            <form class="search__form">
+                <div class="form-group">
+                    <input type="text" class="form-control form--control" placeholder="Search Here...">
+                    <button type="submit" class="cmn--btn btn">Search</button>
                 </div>
-
-
-            </div>
+            </form>
+            <button class="btn-close btn-close-white"></button>
         </div>
-    </section>
+    </div>
+    <!-- Search Form Ends Here -->
 
-    <!-- ***** Pricing Plans Start ***** -->
-    <section class="section colored" id="pricing-plans">
+
+    <!-- Banner Section Starts Here -->
+    <div class="inner-banner section-bg overflow-hidden">
         <div class="container">
-            <!-- ***** Section Title Start ***** -->
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="center-heading">
-                        <h2 class="section-title">Pricing Plans</h2>
-                    </div>
-                </div>
-                <div class="offset-lg-3 col-lg-6">
-                    <div class="center-text">
-                        <p>OUR COMPANY IS MADE UP OF FOUR AMAZING INVESTMENT SECTORS. ENJOY FULL INSURANCE COVERAGE ON
-                            ALL INVESTMENT PACKAGES IN OUR PLATFORM. CLICK ON CHOOSE PLAN TO REGISTER.</p>
-                    </div>
-                </div>
-            </div>
-            <!-- ***** Section Title End ***** -->
-
-            <div class="row">
-                <!-- ***** Pricing Item Start ***** -->
-                <div class="col-lg-3 col-md-6 col-sm-12"
-                    data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
-                    <div class="pricing-item">
-                        <div class="pricing-header">
-                            <h3 class="pricing-title">BASIC</h3>
-                        </div>
-                        <div class="pricing-body">
-                            <div class="price-wrapper">
-                                <span class="currency">$</span>
-                                <span class="price">200</span>
-                                <span class="period">minimum</span>
-                            </div>
-                            <ul class="list">
-                                <li class="active">$200 Minimum Investment</li>
-                                <li class="active">$4,999 Maximum Investment</li>
-                                {{-- <li>Personal Account Manager</li> --}}
-                                <li class="active">10% R.O.I</li>
-                                <li class="active">Contract Duration 30 Days </li>
-                                <li class="active">Returns: Every 7 Days</li>
-                            </ul>
-                        </div>
-                        <div class="pricing-footer">
-                            <a href="{{ route("user.register") }}" class="main-button">Register Now</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Pricing Item End ***** -->
-
-                <!-- ***** Pricing Item Start ***** -->
-                <div class="col-lg-3 col-md-6 col-sm-12"
-                    data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
-                    <div class="pricing-item active">
-                        <div class="pricing-header">
-                            <h3 class="pricing-title">STANDARD</h3>
-                        </div>
-                        <div class="pricing-body">
-                            <div class="price-wrapper">
-                                <span class="currency">$</span>
-                                <span class="price">5,000</span>
-                                <span class="period">minimum</span>
-                            </div>
-                            <ul class="list">
-                                <li class="active">$5,000 Minimum Investment</li>
-                                <li class="active">$19,999 Maximum Investment</li>
-                                {{-- <li class="active">Personal Account Manager</li> --}}
-                                <li class="active">15% R.O.I</li>
-                                <li class="active">Contract Duration 30 Days </li>
-                                <li class="active">Returns: Every 15 Days</li
-                            </ul>
-                        </div>
-                        <div class="pricing-footer">
-                            <a href="{{ route("user.register") }}" class="main-button">Register Now</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Pricing Item End ***** -->
-
-                <!-- ***** Pricing Item Start ***** -->
-                <div class="col-lg-3 col-md-6 col-sm-12"
-                    data-scroll-reveal="enter bottom move 50px over 0.6s after 0.6s">
-                    <div class="pricing-item">
-                        <div class="pricing-header">
-                            <h3 class="pricing-title">ADVANCED</h3>
-                        </div>
-                        <div class="pricing-body">
-                            <div class="price-wrapper">
-                                <span class="currency">$</span>
-                                <span class="price">20,000</span>
-                                <span class="period">minimum</span>
-                            </div>
-                            <ul class="list">
-                                <li class="active">$20,000 Minimum Investment</li>
-                                <li class="active">$99,990 Maximum Investment</li>
-                                <li class="active">25% R.O.I</li>
-                                <li class="active">Contract Duration 30 Days </li>
-                                <li class="active">Returns: Every 30 Days</li
-                            </ul>
-                        </div>
-                        <div class="pricing-footer">
-                            <a href="{{ route("user.register") }}" class="main-button">Register Now</a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 col-sm-12"
-                    data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
-                    <div class="pricing-item">
-                        <div class="pricing-header">
-                            <h3 class="pricing-title">LIFE</h3>
-                        </div>
-                        <div class="pricing-body">
-                            <div class="price-wrapper">
-                                <span class="currency">$</span>
-                                <span class="price">100,000</span>
-                                <span class="period">minimum</span>
-                            </div>
-                            <ul class="list">
-                                <li class="active">$100,000 Minimum Investment</li>
-                                <li class="active">Unlimited</li>
-                                <li class="active">35% R.O.I</li>
-                                <li class="active">Contract Duration 60 Days </li>
-                                <li class="active">Returns: Every 60 Days</li
-                            </ul>
-                        </div>
-                        <div class="pricing-footer">
-                            <a href="{{ route("user.register") }}" class="main-button">Register Now</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- ***** Pricing Item End ***** -->
+            <div class="inner__banner__content text-center">
+                <h2 class="title">Investment Plan</h2>
+                <ul class="breadcums d-flex flex-wrap justify-content-center">
+                    <li><a href="index.html">Home</a>//</li>
+                    <li>Investment Plan</li>
+                </ul>
             </div>
         </div>
-    </section>
-    <!-- ***** Pricing Plans End ***** -->
+        <div class="shapes">
+            <img src="{{ asset('assets/newassets/images/banner/inner-bg.png') }}" alt="banner" class="shape shape1">
+            <img src="{{ asset('assets/newassets/images/banner/inner-thumb.png') }}" alt="banner" class="shape shape2 d-none d-lg-block">
+        </div>
+    </div>
+    <!-- Banner Section Ends Here -->
 
-    <section class="section colored" id="contact-us">
+
+    <!-- Plan Section Starts Here -->
+    <section class="plan-section padding-bottom">
         <div class="container">
-            <!-- ***** Section Title Start ***** -->
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="center-heading">
-                        <h2 class="section-title">Talk To Us</h2>
-                    </div>
-                </div>
-                <div class="offset-lg-3 col-lg-6">
-                    <div class="center-text">
-                        <p>We are always available 24/7 to cater to your needs and serve you better</p>
+            <div class="row justify-content-center">
+                <div class="col-lg-6 col-md-10">
+                    <div class="section__header text-center">
+                        <h2 class="section__header-title">Our Investment Plans</h2>
                     </div>
                 </div>
             </div>
-            <!-- ***** Section Title End ***** -->
+            <div class="plan__slider">
+                <div class="single-slide">
+                    <div class="plan__item style--two">
+                        <div class="plan__item-header">
+                            <h2 class="plan-parcent">Basic</h2>
+                            <p class="plan-parcent-info">Duration 30days</p>
+                        </div>
+                        <div class="plan__item-body">
+                            <ul class="plan__info">
+                                <li>
+                                    <span class="title">Min :</span>
+                                    <span class="value">200 USD</span>
+                                </li>
+                                <li>
+                                    <span class="title">Max :</span>
+                                    <span class="value">4,999 USD</span>
+                                </li>
 
-            <div class="row">
-                <!-- ***** Contact Text Start ***** -->
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <h5 class="margin-bottom-30">Keep in touch</h5>
-                    <div class="contact-text">
-                        <p>                                Send us a message for all your enquiries </p>
+                                <li>
+                                    <span class="title">10% ROI</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="plan__item-footer">
+                            <p class="footer-info"> Returns: Every 7days</p>
+                        </div>
+                        <a href="{{ route('user.register') }}" class="cmn--btn" style="margin-top: 10px;">Register</a>
                     </div>
                 </div>
-                <!-- ***** Contact Text End ***** -->
+                <div class="single-slide">
+                    <div class="plan__item style--two">
+                        <div class="plan__item-header">
+                            <h2 class="plan-parcent">Standard</h2>
+                            <p class="plan-parcent-info">Duration 30days</p>
+                        </div>
+                        <div class="plan__item-body">
+                            <ul class="plan__info">
+                                <li>
+                                    <span class="title">Min :</span>
+                                    <span class="value">5,000 USD</span>
+                                </li>
+                                <li>
+                                    <span class="title">Max :</span>
+                                    <span class="value">19,999 USD</span>
+                                </li>
 
-                <!-- ***** Contact Form Start ***** -->
-                <div class="col-lg-8 col-md-6 col-sm-12">
-                    <div class="contact-form">
-                        <form id="contact" action="" method="get">
-                            <div class="row">
-                                <div class="col-lg-6 col-md-12 col-sm-12">
-                                    <fieldset>
-                                        <input name="name" type="text" class="form-control" id="name"
-                                            placeholder="Full Name" required="">
-                                    </fieldset>
-                                </div>
-                                <div class="col-lg-6 col-md-12 col-sm-12">
-                                    <fieldset>
-                                        <input name="email" type="email" class="form-control" id="email"
-                                            placeholder="E-Mail Address" required="">
-                                    </fieldset>
-                                </div>
-                                <div class="col-lg-12">
-                                    <fieldset>
-                                        <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your Message"
-                                            required=""></textarea>
-                                    </fieldset>
-                                </div>
-                                <div class="col-lg-12">
-                                    <fieldset>
-                                        <button type="submit" id="form-submit" class="main-button">Send
-                                            Message</button>
-                                    </fieldset>
-                                </div>
-                            </div>
-                        </form>
+                                <li>
+                                    <span class="title">15% ROI</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="plan__item-footer">
+                            <p class="footer-info"> Returns: Every 15days</p>
+                        </div>
+                        <a href="{{ route('user.register') }}" class="cmn--btn" style="margin-top: 10px;">Register</a>
                     </div>
                 </div>
-                <!-- ***** Contact Form End ***** -->
+                <div class="single-slide">
+                    <div class="plan__item style--two">
+                        <div class="plan__item-header">
+                            <h2 class="plan-parcent">Advance</h2>
+                            <p class="plan-parcent-info">Duration 30days</p>
+                        </div>
+                        <div class="plan__item-body">
+                            <ul class="plan__info">
+                                <li>
+                                    <span class="title">Min :</span>
+                                    <span class="value">20,000 USD</span>
+                                </li>
+                                <li>
+                                    <span class="title">Max :</span>
+                                    <span class="value">99,999 USD</span>
+                                </li>
+
+                                <li>
+                                    <span class="title">25% ROI</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="plan__item-footer">
+                            <p class="footer-info"> Returns: Every 30days</p>
+                        </div>
+                        <a href="{{ route('user.register') }}" class="cmn--btn" style="margin-top: 10px;">Register</a>
+                    </div>
+                </div>
+                <div class="single-slide">
+                    <div class="plan__item style--two">
+                        <div class="plan__item-header">
+                            <h2 class="plan-parcent">Life</h2>
+                            <p class="plan-parcent-info">Duration 60days</p>
+                        </div>
+                        <div class="plan__item-body">
+                            <ul class="plan__info">
+                                <li>
+                                    <span class="title">Min :</span>
+                                    <span class="value">100,000 USD</span>
+                                </li>
+                                <li>
+                                    <span class="title">Max :</span>
+                                    <span class="value">unlimited</span>
+                                </li>
+
+                                <li>
+                                    <span class="title">35% ROI</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="plan__item-footer">
+                            <p class="footer-info"> Returns: Every 60days</p>
+                        </div>
+                        <a href="{{ route('user.register') }}" class="cmn--btn" style="margin-top: 10px;">Register</a>
+                    </div>
+                </div>
+                <div class="single-slide">
+                    <div class="plan__item style--two">
+                        <div class="plan__item-header">
+                            <h2 class="plan-parcent">Basic</h2>
+                            <p class="plan-parcent-info">Duration 30days</p>
+                        </div>
+                        <div class="plan__item-body">
+                            <ul class="plan__info">
+                                <li>
+                                    <span class="title">Min :</span>
+                                    <span class="value">200 USD</span>
+                                </li>
+                                <li>
+                                    <span class="title">Max :</span>
+                                    <span class="value">4,999 USD</span>
+                                </li>
+
+                                <li>
+                                    <span class="title">10% ROI</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="plan__item-footer">
+                            <p class="footer-info"> Returns: Every 7days</p>
+                        </div>
+                        <a href="{{ route('user.register') }}" class="cmn--btn" style="margin-top: 10px;">Register</a>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
+    <!-- Plan Section Ends Here -->
 
 
-
-    @include('includes.home_footer')
+    <!-- Referral Section Starts Here -->
+    <section class="referral-section  padding-bottom section-bg-two">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 align-self-end d-none d-lg-block">
+                    <div class="section__thumb rtl me-5">
+                        <img src="{{ asset('assets/newassets/images/referral/thumb.png') }}" alt="referral">
+                        <div class="shapes">
+                            <img src="{{ asset('assets/newassets/images/referral/clock.png') }}" alt="referral" class="shape shape1">
+                            <img src="{{ asset('assets/newassets/images/referral/man.png') }}" alt="referral" class="shape shape2">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="section__header">
+                        <h2 class="section__header-title">Up to 35% Referral Commission</h2>
+                        <p>Our investment plans can give you a return of 10% if your refer someone that can benefit from our platform</p>
+                    </div>
+                    <a href="sign-up.html" class="cmn--btn">Get Started</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Referral Section Ends Here -->
+    @include('includes.home_footer1')
 
     <!-- ***** Footer Start ***** -->
     {{-- @include('includes.home_footer') --}}
 
-    @include('includes.home_script')
-    <!-- jQuery -->
-
-
+    @include('includes.home_script1')
+    <!-- Footer Section Ends Here -->
 </body>
 
+<!-- Mirrored from template.viserlab.com/digihyip/demo/plan.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Jul 2022 07:13:26 GMT -->
 </html>
