@@ -366,7 +366,7 @@
                     <div class="plan__item style--two">
                         <div class="plan__item-header">
                             <h2 class="plan-parcent">Advance</h2>
-                            <p class="plan-parcent-info">Duration 30days</p>
+                            <p class="plan-parcent-info">Duration 1days</p>
                         </div>
                         <div class="plan__item-body">
                             <ul class="plan__info">
@@ -380,7 +380,7 @@
                                 </li>
 
                                 <li>
-                                    <span class="title">25% ROI</span>
+                                    <span class="title">20% ROI</span>
                                 </li>
                             </ul>
                         </div>
@@ -395,7 +395,7 @@
                     <div class="plan__item style--two">
                         <div class="plan__item-header">
                             <h2 class="plan-parcent">Life</h2>
-                            <p class="plan-parcent-info">Duration 60days</p>
+                            <p class="plan-parcent-info">Duration 20days</p>
                         </div>
                         <div class="plan__item-body">
                             <ul class="plan__info">
@@ -409,12 +409,12 @@
                                 </li>
 
                                 <li>
-                                    <span class="title">35% ROI</span>
+                                    <span class="title">25% ROI</span>
                                 </li>
                             </ul>
                         </div>
                         <div class="plan__item-footer">
-                            <p class="footer-info"> Returns: Every 60days</p>
+                            <p class="footer-info"> Returns: Every 20days</p>
                         </div>
                         <a href="{{ route('user.register') }}" class="cmn--btn"
                             style="margin-top: 10px;">Register</a>
