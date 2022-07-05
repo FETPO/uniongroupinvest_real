@@ -385,7 +385,7 @@
                             </ul>
                         </div>
                         <div class="plan__item-footer">
-                            <p class="footer-info"> Returns: Every 30days</p>
+                            <p class="footer-info"> Returns: Every 15days</p>
                         </div>
                         <a href="{{ route('user.register') }}" class="cmn--btn"
                             style="margin-top: 10px;">Register</a>

@@ -31,12 +31,18 @@
                     <li>
                         <a href="{{ route('contact') }}">Contact</a>
                     </li>
+                    <li>
+                        <a href="{{ route('user.register') }}">Register</a>
+                    </li>
+                    <li>
+                        <a href="{{ route('user.login') }}">Login</a>
+                    </li>
+
                 </ul>   <!-- Menu End -->
 
-                <div class="button__wrapper d-none d-lg-block">
-                    <a href="{{ route('user.register') }}" class="cmn--btn4">Register</a>
+                {{-- <div class="button__wrapper d-none d-lg-block">
                     <a href="{{ route('user.login') }}" class="cmn--btn4">Login</a>
-                </div>
+                </div> --}}
                 
 
                 <div class="header-trigger-wrapper d-flex d-lg-none align-items-center">

@@ -18,3 +18,7 @@
 <!-- Custom Link -->
 <link rel="stylesheet" href="{{ asset('assets/newassets/css/main.css') }}">
 <link rel="shortcut icon" href="{{ asset('assets/newassets/images/favicon.png') }}" type="image/x-icon">
+
+<script src="https://widgets.coingecko.com/coingecko-coin-price-marquee-widget.js"></script>
+<coingecko-coin-price-marquee-widget coin-ids="bitcoin,ethereum,eos,ripple,litecoin" currency="usd"
+    background-color="#ffffff" locale="en"></coingecko-coin-price-marquee-widget>
