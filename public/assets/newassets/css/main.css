@@ -3078,7 +3078,7 @@ div[class*=col]:nth-of-type(4n + 4) .plan__item::before, .single-slide:nth-of-ty
 }
 
 .plan__item-header .plan-parcent {
-    font-size: 60px;
+    font-size: 40px;
     line-height: 1.1;
 }
 

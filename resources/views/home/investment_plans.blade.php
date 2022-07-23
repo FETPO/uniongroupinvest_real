@@ -130,7 +130,7 @@
                     <div class="plan__item style--two">
                         <div class="plan__item-header">
                             <h2 class="plan-parcent">Advance</h2>
-                            <p class="plan-parcent-info">Duration 15days</p>
+                            <p class="plan-parcent-info">Duration 30days</p>
                         </div>
                         <div class="plan__item-body">
                             <ul class="plan__info">
@@ -140,7 +140,7 @@
                                 </li>
                                 <li>
                                     <span class="title">Max :</span>
-                                    <span class="value">99,999 USD</span>
+                                    <span class="value">50,000 USD</span>
                                 </li>
 
                                 <li>
@@ -158,7 +158,7 @@
                     <div class="plan__item style--two">
                         <div class="plan__item-header">
                             <h2 class="plan-parcent">Life</h2>
-                            <p class="plan-parcent-info">Duration 20days</p>
+                            <p class="plan-parcent-info">Duration 30days</p>
                         </div>
                         <div class="plan__item-body">
                             <ul class="plan__info">
@@ -201,6 +201,34 @@
 
                                 <li>
                                     <span class="title">10% ROI</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="plan__item-footer">
+                            <p class="footer-info"> Returns: Every 7days</p>
+                        </div>
+                        <a href="{{ route('user.register') }}" class="cmn--btn" style="margin-top: 10px;">Register</a>
+                    </div>
+                </div>
+                <div class="single-slide">
+                    <div class="plan__item style--two">
+                        <div class="plan__item-header">
+                            <h2 class="plan-parcent">Professional</h2>
+                            <p class="plan-parcent-info">Duration 30days</p>
+                        </div>
+                        <div class="plan__item-body">
+                            <ul class="plan__info">
+                                <li>
+                                    <span class="title">Min :</span>
+                                    <span class="value">50,000 USD</span>
+                                </li>
+                                <li>
+                                    <span class="title">Max :</span>
+                                    <span class="value">100,000 USD</span>
+                                </li>
+
+                                <li>
+                                    <span class="title">25% ROI</span>
                                 </li>
                             </ul>
                         </div>
